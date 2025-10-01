@@ -1,0 +1,14 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Dies",
+    "item": "minecraft:structure_void",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": {
+    "type": "stats",
+    "statType": "minecraft:custom",
+    "statName": "minecraft:deaths",
+    "min": 1
+  }
+}

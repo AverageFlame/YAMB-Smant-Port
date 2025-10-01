@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Kill %min% Undead Mobs",
+    "item": "minecraft:wooden_sword",
+    "decoration": "MULTI_ITEM"
+  },
+  "scoreboardName": "undead_kills",
+  "min": 30
+}

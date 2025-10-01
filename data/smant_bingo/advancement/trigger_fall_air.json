@@ -1,0 +1,38 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "vine": {
+      "trigger": "minecraft:fall_from_height",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "advancements": {
+                  "smant_bingo:trigger_vines": true,
+                  "smant_bingo:die_vines": false
+                }
+              }
+            }
+          }
+        ],
+        "start_position": {
+          "block": {
+            "blocks": "minecraft:air"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "vine"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:air_check"
+  }
+}

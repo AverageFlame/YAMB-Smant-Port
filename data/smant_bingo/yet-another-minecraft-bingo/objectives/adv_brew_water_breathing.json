@@ -1,0 +1,10 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_brew_water_breathing",
+  "display": {
+    "name": "Brew a potion of Water Breathing",
+    "item": "minecraft:potion",
+    "itemComponents": {"minecraft:potion_contents": {"potion": "minecraft:water_breathing"}},
+    "decoration": "NONE"
+  }
+}

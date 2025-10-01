@@ -1,0 +1,25 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "wear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "slots": {
+            "armor.chest": {
+              "items": "minecraft:leather_chestplate",
+              "components": {
+                "minecraft:dyed_color": 4673362
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wear"
+    ]
+  ]
+}

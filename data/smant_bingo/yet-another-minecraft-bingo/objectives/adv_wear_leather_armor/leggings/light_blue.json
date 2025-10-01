@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/leggings/light_blue",
+  "display": {
+    "name": "Wear Light Blue Leather Leggings",
+    "item": "minecraft:leather_leggings",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":3847130
+      }
+    },
+    "decoration": "NONE"
+  }
+}

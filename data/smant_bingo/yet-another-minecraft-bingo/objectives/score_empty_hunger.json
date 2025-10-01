@@ -1,0 +1,11 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Empty Your Hunger Bar",
+    "item": "minecraft:rotten_flesh",
+    "decoration": "ADVANCEMENT"
+  },
+  "scoreboardName": "hunger",
+  "min": 0,
+  "max": 0
+}

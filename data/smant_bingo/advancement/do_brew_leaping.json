@@ -1,0 +1,16 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "potion": {
+      "trigger": "minecraft:brewed_potion",
+      "conditions": {
+        "potion": "minecraft:leaping"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "potion"
+    ]
+  ]
+}

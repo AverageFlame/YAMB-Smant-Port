@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_ocelot",
+  "display": {
+    "name": "Breed a Ocelot",
+    "item": "minecraft:ocelot_spawn_egg",
+    "decoration": "NONE"
+  }
+}

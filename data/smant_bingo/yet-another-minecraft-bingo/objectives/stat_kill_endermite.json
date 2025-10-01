@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill An Endermite",
+    "item": "minecraft:wooden_sword",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:killed",
+  "statName": "minecraft:endermite",
+  "min": 1
+}

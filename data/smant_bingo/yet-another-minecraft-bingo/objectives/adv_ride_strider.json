@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:nether/ride_strider",
+  "display": {
+    "name": "Ride a Strider",
+    "item": "minecraft:warped_fungus_on_a_stick",
+    "decoration": "NONE"
+  }
+}

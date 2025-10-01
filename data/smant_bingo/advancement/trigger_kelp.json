@@ -1,0 +1,23 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "kelp": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:dried_kelp"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kelp"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:kelp_count"
+  }
+}

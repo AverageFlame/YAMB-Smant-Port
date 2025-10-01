@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_hoglin",
+  "display": {
+    "name": "Breed a Hoglin",
+    "item": "minecraft:hoglin_spawn_egg",
+    "decoration": "NONE"
+  }
+}

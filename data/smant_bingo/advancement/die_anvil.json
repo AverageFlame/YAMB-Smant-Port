@@ -1,0 +1,99 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "full": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "stats": [
+                  {
+                    "type": "minecraft:custom",
+                    "stat": "minecraft:time_since_death",
+                    "value": 0
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:falling_block",
+            "nbt": "{BlockState:{Name:\"minecraft:anvil\"}}"
+          }
+        }
+      }
+    },
+    "chipped": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "stats": [
+                  {
+                    "type": "minecraft:custom",
+                    "stat": "minecraft:time_since_death",
+                    "value": 0
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:falling_block",
+            "nbt": "{BlockState:{Name:\"minecraft:chipped_anvil\"}}"
+          }
+        }
+      }
+    },
+    "damaged": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "stats": [
+                  {
+                    "type": "minecraft:custom",
+                    "stat": "minecraft:time_since_death",
+                    "value": 0
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:falling_block",
+            "nbt": "{BlockState:{Name:\"minecraft:damaged_anvil\"}}"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "full",
+      "chipped",
+      "damaged"
+    ]
+  ]
+}

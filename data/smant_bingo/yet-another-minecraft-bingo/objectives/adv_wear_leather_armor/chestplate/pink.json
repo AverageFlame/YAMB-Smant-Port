@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/chestplate/pink",
+  "display": {
+    "name": "Wear a Pink Leather Chestplate",
+    "item": "minecraft:leather_chestplate",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":15961002
+      }
+    },
+    "decoration": "NONE"
+  }
+}

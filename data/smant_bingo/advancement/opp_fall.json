@@ -1,0 +1,25 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "fall": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "minecraft:is_fall",
+                "expected": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fall"
+    ]
+  ]
+}

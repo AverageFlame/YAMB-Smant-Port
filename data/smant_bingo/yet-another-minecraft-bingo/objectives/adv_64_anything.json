@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:obtain_64_anything",
+  "display": {
+    "name": "Collect 64 of Anything",
+    "item": "minecraft:stone",
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "level": {
+      "trigger": "minecraft:location"
+    }
+  },
+  "requirements": [
+    [
+      "level"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:level_count"
+  }
+}

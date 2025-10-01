@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_use_composter",
+  "display": {
+    "name": "Fill a Composter",
+    "item": "minecraft:composter",
+    "decoration": "NONE"
+  }
+}

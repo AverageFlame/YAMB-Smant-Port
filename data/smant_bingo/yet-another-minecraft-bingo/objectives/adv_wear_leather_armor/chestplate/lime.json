@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/chestplate/lime",
+  "display": {
+    "name": "Wear a Lime Leather Chestplate",
+    "item": "minecraft:leather_chestplate",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":8439583
+      }
+    },
+    "decoration": "NONE"
+  }
+}

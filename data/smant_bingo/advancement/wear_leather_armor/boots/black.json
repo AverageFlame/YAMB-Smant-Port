@@ -1,0 +1,25 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "wear ": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "slots": {
+            "armor.feet": {
+              "items": "minecraft:leather_boots",
+              "components": {
+                "minecraft:dyed_color": 1908001
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wear "
+    ]
+  ]
+}

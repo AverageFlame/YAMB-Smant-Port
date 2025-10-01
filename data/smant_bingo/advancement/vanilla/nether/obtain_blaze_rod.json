@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:nether/find_fortress",
+  "criteria": {
+    "blaze_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:blaze_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "blaze_rod"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:advancement_count"
+  },
+  "sends_telemetry_event": true
+}

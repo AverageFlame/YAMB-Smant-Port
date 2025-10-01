@@ -1,0 +1,18 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "tame": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wolf"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tame"
+    ]
+  ]
+}

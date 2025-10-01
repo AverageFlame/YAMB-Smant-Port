@@ -1,0 +1,29 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "use_carrot": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "vehicle": {
+                "type": "minecraft:pig"
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": "minecraft:carrot_on_a_stick"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "use_carrot"
+    ]
+  ]
+}

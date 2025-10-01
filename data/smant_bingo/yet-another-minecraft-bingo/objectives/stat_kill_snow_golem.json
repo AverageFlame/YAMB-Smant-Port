@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill A Snow Golem",
+    "item": "minecraft:wooden_sword",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:killed",
+  "statName": "minecraft:snow_golem",
+  "min": 1
+}

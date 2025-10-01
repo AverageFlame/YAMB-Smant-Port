@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_pig",
+  "display": {
+    "name": "Breed a Pig",
+    "item": "minecraft:pig_spawn_egg",
+    "decoration": "NONE"
+  }
+}

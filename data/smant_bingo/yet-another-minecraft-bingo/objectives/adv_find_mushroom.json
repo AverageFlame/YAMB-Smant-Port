@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:location_mushroom",
+  "display": {
+    "name": "Find a Mushroom Fields Biome",
+    "item": "minecraft:compass",
+    "decoration": "NONE"
+  }
+}

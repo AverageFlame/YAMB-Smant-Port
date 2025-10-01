@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:die_anvil",
+  "display": {
+    "name": "Die to a Anvil",
+    "item": "minecraft:structure_void",
+    "decoration": "NONE"
+  }
+}

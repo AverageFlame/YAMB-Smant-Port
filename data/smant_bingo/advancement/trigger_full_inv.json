@@ -1,0 +1,202 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "inv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "slots": {
+            "inventory.0": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.1": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.2": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.3": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.4": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.5": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.6": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.7": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.8": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.9": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.10": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.11": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.12": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.13": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.14": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.15": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.16": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.17": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.18": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.19": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.20": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.21": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.22": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.23": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.24": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.25": {
+              "count": {
+                "min": 1
+              }
+            },
+            "inventory.26": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.0": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.1": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.2": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.3": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.4": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.5": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.6": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.7": {
+              "count": {
+                "min": 1
+              }
+            },
+            "hotbar.8": {
+              "count": {
+                "min": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "inv"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:inv_check"
+  }
+}

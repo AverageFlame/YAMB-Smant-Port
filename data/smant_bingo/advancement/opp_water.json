@@ -1,0 +1,26 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "water": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:water"
+      }
+    },
+    "cauldron": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:water_cauldron"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "water",
+      "cauldron"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:grant_opp_water"
+  }
+}

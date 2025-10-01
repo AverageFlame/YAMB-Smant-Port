@@ -1,0 +1,282 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "horse": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:horse"
+        }
+      }
+    },
+    "donkey": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:donkey"
+        }
+      }
+    },
+    "mule": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:mule"
+        }
+      }
+    },
+    "cow": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:cow"
+        }
+      }
+    },
+    "goat": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:goat"
+        }
+      }
+    },
+    "mooshroom": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:mooshroom"
+        }
+      }
+    },
+    "sheep": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:sheep"
+        }
+      }
+    },
+    "pig": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:pig"
+        }
+      }
+    },
+    "chicken": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:chicken"
+        }
+      }
+    },
+    "wolf": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:wolf"
+        }
+      }
+    },
+    "cat": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:cat"
+        }
+      }
+    },
+    "ocelot": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:ocelot"
+        }
+      }
+    },
+    "axolotl": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:axolotl"
+        }
+      }
+    },
+    "llama": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:llama"
+        }
+      }
+    },
+    "rabbit": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:rabbit"
+        }
+      }
+    },
+    "turtle": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:turtle"
+        }
+      }
+    },
+    "panda": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:panda"
+        }
+      }
+    },
+    "fox": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:fox"
+        }
+      }
+    },
+    "bee": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:bee"
+        }
+      }
+    },
+    "strider": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:strider"
+        }
+      }
+    },
+    "hoglin": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:hoglin"
+        }
+      }
+    },
+    "frog": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:frog"
+        }
+      }
+    },
+    "camel": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:camel"
+        }
+      }
+    },
+    "sniffer": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:sniffer"
+        }
+      }
+    },
+    "armadillo": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:armadillo"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "horse"
+    ],
+    [
+      "donkey"
+    ],
+    [
+      "cow"
+    ],
+    [
+      "goat"
+    ],
+    [
+      "mooshroom"
+    ],
+    [
+      "sheep"
+    ],
+    [
+      "pig"
+    ],
+    [
+      "chicken"
+    ],
+    [
+      "wolf"
+    ],
+    [
+      "cat"
+    ],
+    [
+      "ocelot"
+    ],
+    [
+      "axolotl"
+    ],
+    [
+      "llama"
+    ],
+    [
+      "rabbit"
+    ],
+    [
+      "turtle"
+    ],
+    [
+      "panda"
+    ],
+    [
+      "fox"
+    ],
+    [
+      "bee"
+    ],
+    [
+      "strider"
+    ],
+    [
+      "hoglin"
+    ],
+    [
+      "frog"
+    ],
+    [
+      "camel"
+    ],
+    [
+      "sniffer"
+    ],
+    [
+      "armadillo"
+    ],
+    [
+      "mule"
+    ]
+  ]
+}

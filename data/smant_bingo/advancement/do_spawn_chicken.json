@@ -1,0 +1,13 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "chicken": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "chicken"
+    ]
+  ]
+}

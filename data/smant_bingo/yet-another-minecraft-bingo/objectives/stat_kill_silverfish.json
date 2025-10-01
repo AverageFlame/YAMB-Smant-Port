@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill A Silverfish",
+    "item": "minecraft:wooden_sword",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:killed",
+  "statName": "minecraft:silverfish",
+  "min": 1
+}

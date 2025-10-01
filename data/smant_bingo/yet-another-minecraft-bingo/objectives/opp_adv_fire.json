@@ -1,0 +1,9 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Catches Fire",
+    "item": "minecraft:campfire",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": "smant_bingo:opp_fire"
+}

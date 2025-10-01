@@ -1,0 +1,18 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "damage": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:zombified_piglin"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "damage"
+    ]
+  ]
+}

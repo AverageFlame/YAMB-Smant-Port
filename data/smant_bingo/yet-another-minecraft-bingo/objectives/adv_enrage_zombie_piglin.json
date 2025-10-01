@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_enrage_zombie_piglin",
+  "display": {
+    "name": "Enrage a Zombified Piglin",
+    "item": "minecraft:golden_sword",
+    "decoration": "NONE"
+  }
+}

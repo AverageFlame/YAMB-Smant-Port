@@ -1,0 +1,46 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "fall": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "advancements": {
+                  "smant_bingo:trigger_vines": true
+                },
+                "stats": [
+                  {
+                    "type": "minecraft:custom",
+                    "stat": "minecraft:time_since_death",
+                    "value": 0
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "minecraft:is_fall",
+                "expected": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fall"
+    ]
+  ]
+}

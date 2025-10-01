@@ -1,0 +1,97 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "aqua": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "team": "bingo_orange"
+        },
+        "entity": {
+          "team": "bingo_aqua"
+        }
+      }
+    },
+    "blue": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "team": "bingo_orange"
+        },
+        "entity": {
+          "team": "bingo_blue"
+        }
+      }
+    },
+    "gray": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "team": "bingo_orange"
+        },
+        "entity": {
+          "team": "bingo_gray"
+        }
+      }
+    },
+    "green": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "team": "bingo_orange"
+        },
+        "entity": {
+          "team": "bingo_green"
+        }
+      }
+    },
+    "pink": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "team": "bingo_orange"
+        },
+        "entity": {
+          "team": "bingo_pink"
+        }
+      }
+    },
+    "red": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "team": "bingo_orange"
+        },
+        "entity": {
+          "team": "bingo_red"
+        }
+      }
+    },
+    "yellow": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "team": "bingo_orange"
+        },
+        "entity": {
+          "team": "bingo_yellow"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "aqua",
+      "blue",
+      "gray",
+      "green",
+      "pink",
+      "red",
+      "yellow"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:grant_kill_enemy_player"
+  }
+}

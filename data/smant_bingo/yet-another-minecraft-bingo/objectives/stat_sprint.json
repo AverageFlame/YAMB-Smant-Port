@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Sprint 1km",
+    "item": "minecraft:netherite_boots",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:custom",
+  "statName": "minecraft:sprint_one_cm",
+  "min": 100000
+}

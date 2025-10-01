@@ -1,0 +1,14 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Jumps",
+    "item": "minecraft:leather_boots",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": {
+    "type": "stats",
+    "statType": "minecraft:custom",
+    "statName": "minecraft:jump",
+    "min": 1
+  }
+}

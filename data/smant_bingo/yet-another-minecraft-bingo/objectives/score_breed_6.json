@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Breed %min% Unique Animals",
+    "item": "minecraft:wheat",
+    "decoration": "MULTI_ITEM"
+  },
+  "scoreboardName": "breed",
+  "min": 6
+}

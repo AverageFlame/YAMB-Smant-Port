@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:die_vines",
+  "display": {
+    "name": "Die to Falling From Vines",
+    "item": "minecraft:structure_void",
+    "decoration": "NONE"
+  }
+}

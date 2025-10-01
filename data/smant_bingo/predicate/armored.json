@@ -1,0 +1,20 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "head": {
+        "items": "#minecraft:head_armor"
+      },
+      "chest": {
+        "items": "#minecraft:chest_armor"
+      },
+      "legs": {
+        "items": "#minecraft:leg_armor"
+      },
+      "feet": {
+        "items": "#minecraft:foot_armor"
+      }
+    }
+  }
+}

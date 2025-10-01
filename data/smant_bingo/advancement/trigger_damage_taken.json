@@ -1,0 +1,17 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "die": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "die"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:on_damage_taken"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/pink",
+  "display": {
+    "name": "Wear a Pink Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":15961002
+      }
+    },
+    "decoration": "NONE"
+  }
+}

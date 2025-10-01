@@ -1,0 +1,2 @@
+execute if entity @e[type=minecraft:armor_stand,predicate=smant_bingo:armored,distance=..5] run advancement grant @s only smant_bingo:do_armor_stand
+execute as @s run advancement revoke @s only smant_bingo:trigger_armor_stand

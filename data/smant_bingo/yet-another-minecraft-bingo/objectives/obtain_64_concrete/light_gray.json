@@ -1,0 +1,10 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Collect 64 Light Gray Concrete",
+    "item": "minecraft:light_gray_concrete",
+    "decoration": "NONE"
+  },
+  "item": "minecraft:light_gray_concrete",
+  "count": 64
+}

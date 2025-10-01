@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_mining_fatigue",
+  "display": {
+    "name": "Get the Mining Fatigue Effect",
+    "item": "minecraft:milk_bucket",
+    "decoration": "NONE"
+  }
+}

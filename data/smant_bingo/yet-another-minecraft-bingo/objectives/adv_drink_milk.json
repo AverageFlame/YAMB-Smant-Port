@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:consume_cure",
+  "display": {
+    "name": "Remove any Effect by Drinking Milk",
+    "item": "minecraft:milk_bucket",
+    "decoration": "NONE"
+  }
+}

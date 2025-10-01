@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_fill_inventory",
+  "display": {
+    "name": "Fill Your Inventory with Unique Items",
+    "item": "minecraft:stone",
+    "decoration": "NONE"
+  }
+}

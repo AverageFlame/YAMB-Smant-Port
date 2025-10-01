@@ -1,0 +1,14 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "equip": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "equip"
+    ]
+  ]
+}

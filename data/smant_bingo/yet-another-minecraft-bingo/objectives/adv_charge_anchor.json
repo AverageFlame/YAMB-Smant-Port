@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:nether/charge_respawn_anchor",
+  "display": {
+    "name": "Fully Charge a Respawn Anchor",
+    "item": "minecraft:respawn_anchor",
+    "decoration": "NONE"
+  }
+}

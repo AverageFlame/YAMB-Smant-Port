@@ -1,0 +1,65 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "collect_hat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "head": {
+              "items": "minecraft:chainmail_helmet"
+            }
+          }
+        }
+      }
+    },
+    "collect_chest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "chest": {
+              "items": "minecraft:chainmail_chestplate"
+            }
+          }
+        }
+      }
+    },
+    "collect_legs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "legs": {
+              "items": "minecraft:chainmail_leggings"
+            }
+          }
+        }
+      }
+    },
+    "collect_boot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "feet": {
+              "items": "minecraft:chainmail_boots"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "collect_hat",
+      "collect_chest",
+      "collect_legs",
+      "collect_boot"
+    ]
+  ]
+}

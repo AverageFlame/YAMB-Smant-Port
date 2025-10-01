@@ -1,0 +1,13 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "minecart": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecart"
+    ]
+  ]
+}

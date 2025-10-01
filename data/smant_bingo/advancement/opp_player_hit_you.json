@@ -1,0 +1,23 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {},
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:player"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kill"
+    ]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Collect 64 Pink Wool",
+    "item": "minecraft:pink_wool",
+    "decoration": "NONE"
+  },
+  "item": "minecraft:pink_wool",
+  "count": 64
+}

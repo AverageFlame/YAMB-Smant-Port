@@ -1,0 +1,25 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "wear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "slots": {
+            "armor.head": {
+              "items": "minecraft:leather_helmet",
+              "components": {
+                "minecraft:dyed_color": 16701501
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wear"
+    ]
+  ]
+}

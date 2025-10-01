@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "begin": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "begin"
+    ]
+  ]
+}

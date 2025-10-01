@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Eat a Chorus Fruit",
+    "item": "minecraft:chorus_fruit",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:used",
+  "statName": "minecraft:chorus_fruit",
+  "min": 1
+}

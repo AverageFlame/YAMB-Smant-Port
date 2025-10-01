@@ -1,0 +1,16 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": "Collect All Swords",
+    "item": "minecraft:netherite_sword",
+    "decoration": "MULTI_ITEM"
+  },
+  "objectives": [
+    "minecraft:wooden_sword",
+    "minecraft:stone_sword",
+    "minecraft:iron_sword",
+    "minecraft:golden_sword",
+    "minecraft:diamond_sword",
+    "minecraft:netherite_sword"
+  ]
+}

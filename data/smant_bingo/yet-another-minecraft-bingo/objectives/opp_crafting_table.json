@@ -1,0 +1,9 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Obtains Crafting Table",
+    "item": "minecraft:crafting_table",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": "minecraft:crafting_table"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_spawn_chicken",
+  "display": {
+    "name": "Spawn a Chicken With an Egg",
+    "item": "minecraft:egg",
+    "decoration": "NONE"
+  }
+}

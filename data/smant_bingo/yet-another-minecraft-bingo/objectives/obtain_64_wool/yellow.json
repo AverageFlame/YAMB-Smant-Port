@@ -1,0 +1,10 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Collect 64 Yellow Wool",
+    "item": "minecraft:yellow_wool",
+    "decoration": "NONE"
+  },
+  "item": "minecraft:yellow_wool",
+  "count": 64
+}

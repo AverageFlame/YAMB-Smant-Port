@@ -1,0 +1,10 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Collect 64 Lime Wool",
+    "item": "minecraft:lime_wool",
+    "decoration": "NONE"
+  },
+  "item": "minecraft:lime_wool",
+  "count": 64
+}

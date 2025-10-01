@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Have the Most Dried Kelp",
+    "item": "minecraft:dried_kelp",
+    "decoration": "MULTI_ITEM"
+  },
+  "scoreboardName": "mostKelp",
+  "min": 1
+}

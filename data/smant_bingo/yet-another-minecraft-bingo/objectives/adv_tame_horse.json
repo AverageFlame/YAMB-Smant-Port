@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:tame_horse",
+  "display": {
+    "name": "Tame A Horse",
+    "item": "minecraft:horse_spawn_egg",
+    "decoration": "NONE"
+  }
+}

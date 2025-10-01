@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_absorption",
+  "display": {
+    "name": "Get the Absorption Effect",
+    "item": "minecraft:milk_bucket",
+    "decoration": "NONE"
+  }
+}

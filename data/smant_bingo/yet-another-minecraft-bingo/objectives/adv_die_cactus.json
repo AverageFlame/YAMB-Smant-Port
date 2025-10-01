@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:die_cactus",
+  "display": {
+    "name": "Die to a Cactus",
+    "item": "minecraft:structure_void",
+    "decoration": "NONE"
+  }
+}

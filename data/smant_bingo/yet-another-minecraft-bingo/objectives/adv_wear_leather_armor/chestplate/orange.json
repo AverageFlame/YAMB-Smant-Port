@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/chestplate/orange",
+  "display": {
+    "name": "Wear an Orange Leather Chestplate",
+    "item": "minecraft:leather_chestplate",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":16351261
+      }
+    },
+    "decoration": "NONE"
+  }
+}

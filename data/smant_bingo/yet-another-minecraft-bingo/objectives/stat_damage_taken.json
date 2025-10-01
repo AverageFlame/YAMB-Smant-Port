@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Take 200 Damage",
+    "item": "minecraft:diamond_chestplate",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:custom",
+  "statName": "minecraft:damage_taken",
+  "min": 2000
+}

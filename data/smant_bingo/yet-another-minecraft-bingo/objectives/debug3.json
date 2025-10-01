@@ -1,0 +1,12 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "debug",
+    "item": "minecraft:stone",
+    "decoration": "NONE",
+    "image": "smant_bingo:cow3"
+  },
+  "statType": "minecraft:custom",
+  "statName": "minecraft:sprint_one_cm",
+  "min": 100000
+}

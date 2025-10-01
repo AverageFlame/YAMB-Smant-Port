@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_ride_horse",
+  "display": {
+    "name": "Ride a Horse with a Saddle",
+    "item": "minecraft:saddle",
+    "decoration": "NONE"
+  }
+}

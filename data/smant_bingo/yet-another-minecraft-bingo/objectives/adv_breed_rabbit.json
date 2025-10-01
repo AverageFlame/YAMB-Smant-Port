@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_rabbit",
+  "display": {
+    "name": "Breed a Rabbit",
+    "item": "minecraft:rabbit_spawn_egg",
+    "decoration": "NONE"
+  }
+}

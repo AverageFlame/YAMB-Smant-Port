@@ -1,0 +1,23 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "fire": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "flags": {
+            "is_on_fire": true
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fire"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:grant_opp_fire"
+  }
+}

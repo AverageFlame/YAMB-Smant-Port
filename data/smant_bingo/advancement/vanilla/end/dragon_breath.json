@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:end/kill_dragon",
+  "criteria": {
+    "dragon_breath": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:dragon_breath"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "dragon_breath"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:advancement_count"
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "minecart": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "player": {},
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "#minecraft:rails"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "minecraft:tnt_minecart"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "minecart"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:minecart_placed"
+  }
+}

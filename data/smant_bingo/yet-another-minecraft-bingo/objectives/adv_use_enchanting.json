@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:story/enchant_item",
+  "display": {
+    "name": "Use an Enchanting Table",
+    "item": "minecraft:enchanting_table",
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:collect_any_netherite_armor",
+  "display": {
+    "name": "Wear Any Netherite Armor",
+    "item": "minecraft:netherite_chestplate",
+    "decoration": "NONE"
+  }
+}

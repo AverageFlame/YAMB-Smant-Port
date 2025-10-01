@@ -1,0 +1,10 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_brew_invisibility",
+  "display": {
+    "name": "Brew a potion of Invisibility",
+    "item": "minecraft:potion",
+    "itemComponents": {"minecraft:potion_contents": {"potion": "minecraft:invisibility"}},
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "breed": {
+      "trigger": "minecraft:bred_animals"
+    }
+  },
+  "requirements": [
+    [
+      "breed"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:breed_check"
+  }
+}

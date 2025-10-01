@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_glow_sign",
+  "display": {
+    "name": "Use Glow Ink on a Crimson Sign",
+    "item": "minecraft:glow_ink_sac",
+    "decoration": "NONE"
+  }
+}

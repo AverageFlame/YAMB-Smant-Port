@@ -1,0 +1,32 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "collect": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "head": {
+              "items": "minecraft:golden_helmet"
+            },
+            "chest": {
+              "items": "minecraft:golden_chestplate"
+            },
+            "legs": {
+              "items": "minecraft:golden_leggings"
+            },
+            "feet": {
+              "items": "minecraft:golden_boots"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "collect"
+    ]
+  ]
+}

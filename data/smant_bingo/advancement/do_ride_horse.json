@@ -1,0 +1,29 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "ride": {
+      "trigger": "minecraft:started_riding",
+      "conditions": {
+        "player": {
+          "vehicle": {
+            "type": [
+              "minecraft:horse",
+              "minecraft:skeleton_horse",
+              "minecraft:zombie_horse"
+            ],
+            "slots": {
+              "horse.saddle": {
+                "items": "minecraft:saddle"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ride"
+    ]
+  ]
+}

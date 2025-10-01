@@ -1,0 +1,18 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "geteffect": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "minecraft:bad_omen": {}
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "geteffect"
+    ]
+  ]
+}

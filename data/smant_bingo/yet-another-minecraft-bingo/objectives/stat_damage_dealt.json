@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Deal 400 Damage",
+    "item": "minecraft:netherite_sword",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:custom",
+  "statName": "minecraft:damage_dealt",
+  "min": 4000
+}

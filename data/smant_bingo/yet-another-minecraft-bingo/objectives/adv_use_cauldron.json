@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_use_cauldron",
+  "display": {
+    "name": "Use a Cauldron to Wash Anything",
+    "item": "minecraft:cauldron",
+    "decoration": "NONE"
+  }
+}

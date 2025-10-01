@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Get %min% Advancements",
+    "item": "minecraft:book",
+    "decoration": "ADVANCEMENT"
+  },
+  "scoreboardName": "advancements",
+  "min": 15
+}

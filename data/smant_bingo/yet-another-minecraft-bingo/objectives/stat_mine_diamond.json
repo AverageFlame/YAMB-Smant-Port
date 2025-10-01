@@ -1,0 +1,22 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": "Mine Diamond Ore",
+    "item": "minecraft:diamond_ore",
+    "decoration": "NONE"
+  },
+  "objectives": [
+    {
+      "type": "stats",
+      "statType": "minecraft:mined",
+      "statName": "minecraft:deepslate_diamond_ore",
+      "value": 1
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:mined",
+      "statName": "minecraft:diamond_ore",
+      "value": 1
+    }
+  ]
+}

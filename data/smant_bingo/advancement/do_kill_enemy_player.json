@@ -1,0 +1,13 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kill"
+    ]
+  ]
+}

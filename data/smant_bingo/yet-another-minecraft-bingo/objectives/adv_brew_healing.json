@@ -1,0 +1,10 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_brew_healing",
+  "display": {
+    "name": "Brew a potion of Instant Health",
+    "item": "minecraft:potion",
+    "itemComponents": {"minecraft:potion_contents": {"potion": "minecraft:healing"}},
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Have the Most Hoppers",
+    "item": "minecraft:hopper",
+    "decoration": "MULTI_ITEM"
+  },
+  "scoreboardName": "mostHoppers",
+  "min": 1
+}

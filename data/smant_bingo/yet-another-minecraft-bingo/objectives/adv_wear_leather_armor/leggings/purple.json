@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/leggings/purple",
+  "display": {
+    "name": "Wear Purple Leather Leggings",
+    "item": "minecraft:leather_leggings",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":8991416
+      }
+    },
+    "decoration": "NONE"
+  }
+}

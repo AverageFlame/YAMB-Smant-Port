@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:die_berry_bush",
+  "display": {
+    "name": "Die to a Berry Bush",
+    "item": "minecraft:structure_void",
+    "decoration": "NONE"
+  }
+}

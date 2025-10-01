@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/red",
+  "display": {
+    "name": "Wear a Red Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":11546150
+      }
+    },
+    "decoration": "NONE"
+  }
+}

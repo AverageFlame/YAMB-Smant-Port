@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/magenta",
+  "display": {
+    "name": "Wear a Magenta Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":13061821
+      }
+    },
+    "decoration": "NONE"
+  }
+}

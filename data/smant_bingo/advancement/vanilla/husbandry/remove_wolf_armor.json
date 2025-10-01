@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:husbandry/tame_an_animal",
+  "criteria": {
+    "remove_wolf_armor": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wolf"
+            }
+          }
+        ],
+        "item": {
+          "items": "minecraft:shears"
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    }
+  },
+  "requirements": [
+    [
+      "remove_wolf_armor"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:advancement_count"
+  },
+  "sends_telemetry_event": true
+}

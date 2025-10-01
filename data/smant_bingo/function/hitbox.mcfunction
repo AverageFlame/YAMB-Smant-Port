@@ -1,0 +1,2 @@
+kill @e[type=block_display,tag=player]
+execute as AverageFlame run summon block_display ~-.3 ~ ~-.3 {transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],scale:[.6f,1.8f,.6f],translation:[0f,0f,0f]},block_state:{Name:white_stained_glass},Tags:["player"]}

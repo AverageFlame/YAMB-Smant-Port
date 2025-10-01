@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Die to a Bee",
+    "item": "minecraft:structure_void",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:killed_by",
+  "statName": "minecraft:bee",
+  "min": 1
+}

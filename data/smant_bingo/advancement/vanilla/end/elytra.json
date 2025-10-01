@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:end/find_end_city",
+  "criteria": {
+    "elytra": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:elytra"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "elytra"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:advancement_count"
+  },
+  "sends_telemetry_event": true
+}

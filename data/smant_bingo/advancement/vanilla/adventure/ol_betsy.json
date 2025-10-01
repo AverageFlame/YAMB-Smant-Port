@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "shot_crossbow": {
+      "conditions": {
+        "item": {
+          "items": "minecraft:crossbow"
+        }
+      },
+      "trigger": "minecraft:shot_crossbow"
+    }
+  },
+  "requirements": [
+    [
+      "shot_crossbow"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:advancement_count"
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "banner": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:banners"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "banner"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:banner_check"
+  }
+} 

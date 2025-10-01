@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Wear A Carved Pumpkin For 5 Minutes",
+    "item": "minecraft:carved_pumpkin",
+    "decoration": "ADVANCEMENT"
+  },
+  "scoreboardName": "pumpkin",
+  "min": 6000
+}

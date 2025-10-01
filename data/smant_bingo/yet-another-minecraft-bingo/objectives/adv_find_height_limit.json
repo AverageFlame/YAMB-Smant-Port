@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:location_height_limit",
+  "display": {
+    "name": "Reach the Height Limit",
+    "item": "minecraft:elytra",
+    "decoration": "NONE"
+  }
+}

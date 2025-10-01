@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill A Guardian",
+    "item": "minecraft:wooden_sword",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:killed",
+  "statName": "minecraft:guardian",
+  "min": 1
+}

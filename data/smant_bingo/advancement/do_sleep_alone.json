@@ -1,0 +1,13 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "bed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "bed"
+    ]
+  ]
+}

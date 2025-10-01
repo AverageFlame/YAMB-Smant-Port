@@ -1,0 +1,10 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Collect 64 Magenta Wool",
+    "item": "minecraft:magenta_wool",
+    "decoration": "NONE"
+  },
+  "item": "minecraft:magenta_wool",
+  "count": 64
+}

@@ -1,0 +1,9 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Touches Water",
+    "item": "minecraft:water_bucket",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": "smant_bingo:opp_water"
+}

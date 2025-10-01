@@ -1,0 +1,23 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "book": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:written_book"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "book"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:name_check"
+  }
+}

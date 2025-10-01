@@ -1,0 +1,15 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": "Collect All Diamond Tools",
+    "item": "minecraft:diamond_shovel",
+    "decoration": "MULTI_ITEM"
+  },
+  "objectives": [
+    "minecraft:diamond_axe",
+    "minecraft:diamond_hoe",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_shovel",
+    "minecraft:diamond_sword"
+  ]
+}

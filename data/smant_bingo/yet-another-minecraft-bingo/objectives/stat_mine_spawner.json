@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Mine Mob Spawner",
+    "item": "minecraft:spawner",
+    "decoration": "NONE"
+  },
+  "statType": "minecraft:mined",
+  "statName": "minecraft:spawner",
+  "min": 1
+}

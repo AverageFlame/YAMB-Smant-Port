@@ -1,0 +1,13 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "brew": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "brew"
+    ]
+  ]
+}

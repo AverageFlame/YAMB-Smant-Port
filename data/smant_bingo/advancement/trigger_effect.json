@@ -1,0 +1,17 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "effect": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "effect"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:effect_check"
+  }
+}

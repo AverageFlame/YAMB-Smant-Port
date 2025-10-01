@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Mine Turtle egg",
+    "item": "minecraft:turtle_egg",
+    "decoration": "NONE"
+  },
+  "statType": "minecraft:mined",
+  "statName": "minecraft:turtle_egg",
+  "min": 1
+}

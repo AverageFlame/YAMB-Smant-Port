@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_brew_lingering",
+  "display": {
+    "name": "Brew a potion of Lingering",
+    "item": "minecraft:potion",
+    "decoration": "NONE"
+  }
+}

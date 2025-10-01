@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/boots/red",
+  "display": {
+    "name": "Wear Red Leather Boots",
+    "item": "minecraft:leather_boots",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":11546150
+      }
+    },
+    "decoration": "NONE"
+  }
+}

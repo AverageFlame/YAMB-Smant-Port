@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_strider",
+  "display": {
+    "name": "Breed a Strider",
+    "item": "minecraft:strider_spawn_egg",
+    "decoration": "NONE"
+  }
+}

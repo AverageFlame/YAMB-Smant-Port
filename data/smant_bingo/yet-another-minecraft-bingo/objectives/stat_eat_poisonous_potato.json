@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Eat a Poisonous Potato",
+    "item": "minecraft:poisonous_potato",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:used",
+  "statName": "minecraft:poisonous_potato",
+  "min": 1
+}

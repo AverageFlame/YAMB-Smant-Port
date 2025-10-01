@@ -1,0 +1,26 @@
+{
+      "parent": "smant_bingo:begin",
+    "criteria": {
+      "kill": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:sheep",
+                "nbt": "{Color:11b}"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "kill"
+      ]
+    ]
+  }
+  

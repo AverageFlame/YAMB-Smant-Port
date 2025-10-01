@@ -1,0 +1,43 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "stats": [
+                  {
+                    "type": "minecraft:custom",
+                    "stat": "minecraft:time_since_death",
+                    "value": 0
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "smant_bingo:bed_boom",
+                "expected": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kill"
+    ]
+  ]
+}

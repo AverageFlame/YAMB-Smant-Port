@@ -1,0 +1,9 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Obtains Obsidian",
+    "item": "minecraft:obsidian",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": "minecraft:obsidian"
+}

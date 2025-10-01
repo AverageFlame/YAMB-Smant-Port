@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_use_smithing",
+  "display": {
+    "name": "Use a Smithing Table",
+    "item": "minecraft:smithing_table",
+    "decoration": "NONE"
+  }
+}

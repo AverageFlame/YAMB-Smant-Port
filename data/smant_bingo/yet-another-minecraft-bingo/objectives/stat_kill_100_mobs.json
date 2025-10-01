@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill 100 mobs",
+    "item": "minecraft:diamond_sword",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:custom",
+  "statName": "minecraft:mob_kills",
+  "min": 100
+}

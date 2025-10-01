@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_nausea",
+  "display": {
+    "name": "Get the Nausea Effect",
+    "item": "minecraft:milk_bucket",
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:tame_wolf",
+  "display": {
+    "name": "Tame A Wolf",
+    "item": "minecraft:wolf_spawn_egg",
+    "decoration": "NONE"
+  }
+}

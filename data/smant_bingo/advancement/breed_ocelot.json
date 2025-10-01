@@ -1,0 +1,18 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "breed": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "minecraft:ocelot"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "breed"
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_cow",
+  "display": {
+    "name": "Breed a Cow",
+    "item": "minecraft:cow_spawn_egg",
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_horse",
+  "display": {
+    "name": "Breed a Horse",
+    "item": "minecraft:horse_spawn_egg",
+    "decoration": "NONE"
+  }
+}

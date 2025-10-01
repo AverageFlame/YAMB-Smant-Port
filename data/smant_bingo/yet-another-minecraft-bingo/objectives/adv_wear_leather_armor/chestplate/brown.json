@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/chestplate/brown",
+  "display": {
+    "name": "Wear a Brown Leather Chestplate",
+    "item": "minecraft:leather_chestplate",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":8606770
+      }
+    },
+    "decoration": "NONE"
+  }
+}

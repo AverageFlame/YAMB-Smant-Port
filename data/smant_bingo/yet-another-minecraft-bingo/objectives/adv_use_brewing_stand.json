@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:nether/brew_potion",
+  "display": {
+    "name": "Use a Brewing Stand",
+    "item": "minecraft:brewing_stand",
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_use_anvil",
+  "display": {
+    "name": "Use an Anvil",
+    "item": "minecraft:anvil",
+    "decoration": "NONE"
+  }
+}

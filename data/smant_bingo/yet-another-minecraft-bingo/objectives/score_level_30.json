@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Reach Level %min%",
+    "item": "minecraft:experience_bottle",
+    "decoration": "ADVANCEMENT"
+  },
+  "scoreboardName": "currentxp",
+  "min": 30
+}

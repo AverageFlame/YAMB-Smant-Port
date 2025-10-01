@@ -1,0 +1,9 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Gets Hit by Snowball",
+    "item": "minecraft:snowball",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": "smant_bingo:do_snowball"
+}

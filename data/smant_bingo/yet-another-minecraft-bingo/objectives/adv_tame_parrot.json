@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:tame_parrot",
+  "display": {
+    "name": "Tame A Parrot",
+    "item": "minecraft:parrot_spawn_egg",
+    "decoration": "NONE"
+  }
+}

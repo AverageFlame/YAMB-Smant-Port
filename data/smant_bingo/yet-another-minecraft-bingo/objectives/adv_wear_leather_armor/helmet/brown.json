@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/brown",
+  "display": {
+    "name": "Wear a Brown Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":8606770
+      }
+    },
+    "decoration": "NONE"
+  }
+}

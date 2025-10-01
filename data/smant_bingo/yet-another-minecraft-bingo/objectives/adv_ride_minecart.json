@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_ride_minecart",
+  "display": {
+    "name": "Ride a Minecart",
+    "item": "minecraft:minecart",
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_ride_pig",
+  "display": {
+    "name": "Ride a Pig with a Carrot on a Stick",
+    "item": "minecraft:carrot_on_a_stick",
+    "decoration": "NONE"
+  }
+}

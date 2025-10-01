@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:die_firework",
+  "display": {
+    "name": "Die to a Firework Rocket",
+    "item": "minecraft:structure_void",
+    "decoration": "NONE"
+  }
+}

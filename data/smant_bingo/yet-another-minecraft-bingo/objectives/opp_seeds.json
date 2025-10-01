@@ -1,0 +1,17 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Obtains Seeds",
+    "item": "minecraft:wheat_seeds",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": {
+      "type": "one_of",
+      "objectives": [
+        "minecraft:wheat_seeds",
+        "minecraft:melon_seeds",
+        "minecraft:pumpkin_seeds",
+        "minecraft:beetroot_seeds"
+      ]
+  }
+}

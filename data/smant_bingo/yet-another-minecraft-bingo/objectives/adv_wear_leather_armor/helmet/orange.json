@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/orange",
+  "display": {
+    "name": "Wear an Orange Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":16351261
+      }
+    },
+    "decoration": "NONE"
+  }
+}

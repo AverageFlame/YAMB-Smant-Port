@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:location_bedrock",
+  "display": {
+    "name": "Stand on Bedrock",
+    "item": "minecraft:bedrock",
+    "decoration": "NONE"
+  }
+}

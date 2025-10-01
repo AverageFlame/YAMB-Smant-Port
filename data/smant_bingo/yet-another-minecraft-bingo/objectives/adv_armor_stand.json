@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_armor_stand",
+  "display": {
+    "name": "Fully Clothe an Armor Stand",
+    "item": "minecraft:armor_stand",
+    "decoration": "NONE"
+  }
+}

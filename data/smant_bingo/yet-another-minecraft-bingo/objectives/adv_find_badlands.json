@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:location_badlands",
+  "display": {
+    "name": "Find a Badlands Biome",
+    "item": "minecraft:compass",
+    "decoration": "NONE"
+  }
+}

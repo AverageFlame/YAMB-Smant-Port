@@ -1,0 +1,17 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "kill"
+    ]
+  ],
+  "rewards": {
+        "function": "smant_bingo:hostile_count"
+  }
+}

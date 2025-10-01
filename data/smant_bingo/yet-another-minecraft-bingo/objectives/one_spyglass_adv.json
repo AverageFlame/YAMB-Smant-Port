@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": "Get Any Spyglass Advancement",
+    "item": "minecraft:spyglass",
+    "decoration": "ADVANCEMENT"
+  },
+  "objectives": [
+    "minecraft:adventure/spyglass_at_parrot",
+    "minecraft:adventure/spyglass_at_ghast",
+    "minecraft:adventure/spyglass_at_dragon"
+  ]
+}

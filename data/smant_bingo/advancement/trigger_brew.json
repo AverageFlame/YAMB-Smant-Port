@@ -1,0 +1,27 @@
+{
+      "parent": "smant_bingo:begin",
+    "criteria": {
+      "brew": {
+        "trigger": "minecraft:brewed_potion",
+        "conditions": {
+          "player": {
+            "type_specific": {
+              "type": "minecraft:player",
+              "advancements": {
+                "smant_bingo:do_brew_lingering": false
+              }
+            }
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "brew"
+      ]
+    ],
+    "rewards": {
+      "function": "smant_bingo:brew_check"
+    }
+  }
+  

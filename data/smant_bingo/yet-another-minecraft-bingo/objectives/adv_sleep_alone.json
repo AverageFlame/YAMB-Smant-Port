@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_sleep_alone",
+  "display": {
+    "name": "Sleep Alone in the Overworld",
+    "item": "minecraft:red_bed",
+    "decoration": "NONE"
+  }
+}

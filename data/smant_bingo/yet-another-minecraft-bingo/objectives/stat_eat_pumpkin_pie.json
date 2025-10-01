@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Eat a Pumpkin Pie",
+    "item": "minecraft:pumpkin_pie",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:used",
+  "statName": "minecraft:pumpkin_pie",
+  "min": 1
+}

@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Eat Glow Berries",
+    "item": "minecraft:glow_berries",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:used",
+  "statName": "minecraft:glow_berries",
+  "min": 1
+}

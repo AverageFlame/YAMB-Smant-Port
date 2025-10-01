@@ -1,0 +1,2 @@
+execute if score @s currentxp < @s xpcheck unless entity @s[advancements={smant_bingo:trigger_enchant=true},predicate=smant_bingo:alive,tag=!enchant] run advancement grant @s only smant_bingo:do_use_anvil
+execute unless entity @s[advancements={smant_bingo:do_use_anvil=true}] run function smant_bingo:reset_level_check

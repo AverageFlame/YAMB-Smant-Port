@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_use_jukebox",
+  "display": {
+    "name": "Use a Jukebox to Play Music",
+    "item": "minecraft:jukebox",
+    "decoration": "NONE"
+  }
+}

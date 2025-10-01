@@ -1,0 +1,34 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "stats": [
+                  {
+                    "type": "minecraft:custom",
+                    "stat": "minecraft:time_since_death",
+                    "value": 0
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "block": "minecraft:cactus"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kill"
+    ]
+  ]
+}

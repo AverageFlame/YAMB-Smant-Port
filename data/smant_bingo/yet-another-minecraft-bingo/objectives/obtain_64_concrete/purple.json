@@ -1,0 +1,10 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Collect 64 Purple Concrete",
+    "item": "minecraft:purple_concrete",
+    "decoration": "NONE"
+  },
+  "item": "minecraft:purple_concrete",
+  "count": 64
+}

@@ -1,0 +1,14 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Takes 100 Total Damage",
+    "item": "minecraft:iron_boots",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": {
+    "type": "stats",
+    "statType": "minecraft:custom",
+    "statName": "minecraft:damage_taken",
+    "min": 100
+  }
+}

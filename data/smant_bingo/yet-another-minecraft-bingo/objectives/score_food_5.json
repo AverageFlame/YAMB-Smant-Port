@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Eat %min% Unique Foods",
+    "item": "minecraft:apple",
+    "decoration": "MULTI_ITEM"
+  },
+  "scoreboardName": "foods",
+  "min": 5
+}

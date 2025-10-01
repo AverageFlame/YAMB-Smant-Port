@@ -1,0 +1,43 @@
+data modify storage smant_bingo:inv inventory set from entity @s Inventory
+data remove storage smant_bingo:inv list
+scoreboard players set @s unique_items 0
+
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[0]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[1]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[2]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[3]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[4]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[5]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[6]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[7]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[8]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[9]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[10]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[11]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[12]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[13]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[14]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[15]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[16]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[17]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[18]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[19]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[20]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[21]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[22]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[23]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[24]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[25]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[26]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[27]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[28]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[29]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[30]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[31]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[32]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[33]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[34]
+function smant_bingo:inv_list with storage smant_bingo:inv inventory[35]
+
+execute if score @s unique_items matches 36 run advancement grant @s only smant_bingo:do_fill_inventory
+execute unless score @s unique_items matches 36 run advancement revoke @s only smant_bingo:trigger_full_inv

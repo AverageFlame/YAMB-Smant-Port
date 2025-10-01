@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:nether/find_fortress",
+  "display": {
+    "name": "Find a Nether Fortress",
+    "item": "minecraft:nether_bricks",
+    "decoration": "NONE"
+  }
+}

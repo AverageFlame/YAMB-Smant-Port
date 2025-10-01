@@ -1,0 +1,25 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "wear ": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "slots": {
+            "armor.legs": {
+              "items": "minecraft:leather_leggings",
+              "components": {
+                "minecraft:dyed_color": 15961002
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wear "
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_jump_boost",
+  "display": {
+    "name": "Get the Jump Boost Effect",
+    "item": "minecraft:milk_bucket",
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": "Collect All Seeds",
+    "item": "minecraft:wheat_seeds",
+    "decoration": "MULTI_ITEM"
+  },
+  "objectives": [
+    "minecraft:wheat_seeds",
+    "minecraft:melon_seeds",
+    "minecraft:pumpkin_seeds",
+    "minecraft:beetroot_seeds"
+  ]
+}

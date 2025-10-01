@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill A Zoglin",
+    "item": "minecraft:wooden_sword",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:killed",
+  "statName": "minecraft:zoglin",
+  "min": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_goat",
+  "display": {
+    "name": "Breed a Goat",
+    "item": "minecraft:goat_spawn_egg",
+    "decoration": "NONE"
+  }
+}

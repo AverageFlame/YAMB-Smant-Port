@@ -1,0 +1,26 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "ylevel": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "location": {
+            "position": {
+              "y": {
+                "min": 320,
+                "max": 9999
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ylevel"
+    ]
+  ]
+}

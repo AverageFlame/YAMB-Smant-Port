@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:adventure/trade",
+  "display": {
+    "name": "Trade With a Villager",
+    "item": "minecraft:emerald",
+    "decoration": "NONE"
+  }
+}

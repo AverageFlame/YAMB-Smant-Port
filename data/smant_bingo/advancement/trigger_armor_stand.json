@@ -1,0 +1,21 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "don": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:armor_stand"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "don"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:armor_stand_check"
+  }
+}

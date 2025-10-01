@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_fox",
+  "display": {
+    "name": "Breed a Fox",
+    "item": "minecraft:fox_spawn_egg",
+    "decoration": "NONE"
+  }
+}

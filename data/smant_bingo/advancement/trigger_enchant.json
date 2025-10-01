@@ -1,0 +1,17 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "enchant": {
+      "trigger": "minecraft:enchanted_item",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "enchant"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:on_enchant"
+  }
+}

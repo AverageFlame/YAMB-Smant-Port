@@ -1,0 +1,10 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Have the Most Levels",
+    "item": "minecraft:experience_bottle",
+    "decoration": "MULTI_ITEM"
+  },
+  "scoreboardName": "mostLevels",
+  "min": 1
+}

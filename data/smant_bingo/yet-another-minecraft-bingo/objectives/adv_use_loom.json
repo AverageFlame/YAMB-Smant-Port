@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_use_loom",
+  "display": {
+    "name": "Use a Loom to Design a Banner",
+    "item": "minecraft:loom",
+    "decoration": "NONE"
+  }
+}

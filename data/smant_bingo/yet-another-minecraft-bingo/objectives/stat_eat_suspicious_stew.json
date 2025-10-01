@@ -1,0 +1,11 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Eat Suspicious Stew",
+    "item": "minecraft:suspicious_stew",
+    "decoration": "ADVANCEMENT"
+  },
+  "statType": "minecraft:used",
+  "statName": "minecraft:suspicious_stew",
+  "min": 1
+}

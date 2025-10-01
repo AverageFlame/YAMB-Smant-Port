@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_detonate_minecart",
+  "display": {
+    "name": "Detonate a TNT Minecart",
+    "item": "minecraft:tnt_minecart",
+    "decoration": "NONE"
+  }
+}

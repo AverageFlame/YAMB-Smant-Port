@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_write_book",
+  "display": {
+    "name": "Write and Sign a Book",
+    "item": "minecraft:writable_book",
+    "decoration": "NONE"
+  }
+}

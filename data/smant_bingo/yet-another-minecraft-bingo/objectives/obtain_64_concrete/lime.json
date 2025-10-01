@@ -1,0 +1,10 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Collect 64 Lime Concrete",
+    "item": "minecraft:lime_concrete",
+    "decoration": "NONE"
+  },
+  "item": "minecraft:lime_concrete",
+  "count": 64
+}

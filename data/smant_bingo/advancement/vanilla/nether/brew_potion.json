@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:nether/obtain_blaze_rod",
+  "criteria": {
+    "potion": {
+      "trigger": "minecraft:brewed_potion"
+    }
+  },
+  "requirements": [
+    [
+      "potion"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:advancement_count"
+  },
+  "sends_telemetry_event": true
+}

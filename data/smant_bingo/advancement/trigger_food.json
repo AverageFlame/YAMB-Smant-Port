@@ -1,0 +1,17 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "eat": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "eat"
+    ]
+  ],
+  "rewards": {
+        "function": "smant_bingo:food_count"
+  }
+}

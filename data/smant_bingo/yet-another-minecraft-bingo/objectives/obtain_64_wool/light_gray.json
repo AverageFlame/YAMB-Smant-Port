@@ -1,0 +1,10 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Collect 64 Light Gray Wool",
+    "item": "minecraft:light_gray_wool",
+    "decoration": "NONE"
+  },
+  "item": "minecraft:light_gray_wool",
+  "count": 64
+}

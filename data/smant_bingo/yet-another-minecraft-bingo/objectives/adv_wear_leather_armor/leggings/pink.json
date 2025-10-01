@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/leggings/pink",
+  "display": {
+    "name": "Wear Pink Leather Leggings",
+    "item": "minecraft:leather_leggings",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":15961002
+      }
+    },
+    "decoration": "NONE"
+  }
+}

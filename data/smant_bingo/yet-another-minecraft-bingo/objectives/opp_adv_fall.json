@@ -1,0 +1,9 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Takes Fall Damage",
+    "item": "minecraft:pointed_dripstone",
+    "decoration": "FORBIDDEN"
+  },
+  "objective": "smant_bingo:opp_fall"
+}

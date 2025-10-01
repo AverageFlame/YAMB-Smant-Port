@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:die_bed",
+  "display": {
+    "name": "Die to [Intentional Game Design]",
+    "item": "minecraft:structure_void",
+    "decoration": "NONE"
+  }
+}

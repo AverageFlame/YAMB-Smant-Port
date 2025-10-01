@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_chicken",
+  "display": {
+    "name": "Breed a Chicken",
+    "item": "minecraft:chicken_spawn_egg",
+    "decoration": "NONE"
+  }
+}

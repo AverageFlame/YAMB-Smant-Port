@@ -1,0 +1,20 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "ride": {
+      "trigger": "minecraft:started_riding",
+      "conditions": {
+        "player": {
+          "vehicle": {
+            "type": "minecraft:minecart"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ride"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/chestplate/yellow",
+  "display": {
+    "name": "Wear a Yellow Leather Chestplate",
+    "item": "minecraft:leather_chestplate",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":16701501
+      }
+    },
+    "decoration": "NONE"
+  }
+}

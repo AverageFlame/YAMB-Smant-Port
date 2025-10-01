@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:location_ice_spikes",
+  "display": {
+    "name": "Find an Ice Spikes Biome",
+    "item": "minecraft:compass",
+    "decoration": "NONE"
+  }
+}

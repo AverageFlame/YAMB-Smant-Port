@@ -1,0 +1,15 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": "Collect All Stone Tools",
+    "item": "minecraft:stone_shovel",
+    "decoration": "MULTI_ITEM"
+  },
+  "objectives": [
+    "minecraft:stone_axe",
+    "minecraft:stone_hoe",
+    "minecraft:stone_pickaxe",
+    "minecraft:stone_shovel",
+    "minecraft:stone_sword"
+  ]
+}

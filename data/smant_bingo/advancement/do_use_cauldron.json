@@ -1,0 +1,81 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "armor": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "#minecraft:cauldrons"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:leather_helmet",
+                "minecraft:leather_chestplate",
+                "minecraft:leather_leggings",
+                "minecraft:leather_boots",
+                "minecraft:leather_horse_armor"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "banner": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "#minecraft:cauldrons"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "#minecraft:banners"
+            }
+          }
+        ]
+      }
+    },
+    "shulker": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "#minecraft:cauldrons"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "#minecraft:shulker_boxes"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "armor",
+      "banner",
+      "shulker"
+    ]
+  ]
+}

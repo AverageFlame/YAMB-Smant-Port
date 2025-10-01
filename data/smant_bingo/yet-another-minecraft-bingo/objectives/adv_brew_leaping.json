@@ -1,0 +1,10 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:do_brew_leaping",
+  "display": {
+    "name": "Brew a potion of Leaping",
+    "item": "minecraft:potion",
+    "itemComponents": {"minecraft:potion_contents": {"potion": "minecraft:leaping"}},
+    "decoration": "NONE"
+  }
+}

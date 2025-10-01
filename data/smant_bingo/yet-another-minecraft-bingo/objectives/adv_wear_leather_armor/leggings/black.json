@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/leggings/black",
+  "display": {
+    "name": "Wear Black Leather Leggings",
+    "item": "minecraft:leather_leggings",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":1908001
+      }
+    },
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": "Collect All Raw Ores",
+    "item": "minecraft:raw_copper",
+    "decoration": "MULTI_ITEM"
+  },
+  "objectives": [
+    "minecraft:raw_copper",
+    "minecraft:raw_iron",
+    "minecraft:raw_gold"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "collect_hat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "head": {
+              "items": "minecraft:netherite_helmet"
+            }
+          }
+        }
+      }
+    },
+    "collect_chest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "chest": {
+              "items": "minecraft:netherite_chestplate"
+            }
+          }
+        }
+      }
+    },
+    "collect_legs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "legs": {
+              "items": "minecraft:netherite_leggings"
+            }
+          }
+        }
+      }
+    },
+    "collect_boot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "feet": {
+              "items": "minecraft:netherite_boots"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "collect_hat",
+      "collect_chest",
+      "collect_legs",
+      "collect_boot"
+    ]
+  ]
+}

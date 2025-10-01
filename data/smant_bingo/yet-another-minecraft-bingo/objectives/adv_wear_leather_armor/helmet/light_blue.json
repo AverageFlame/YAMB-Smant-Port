@@ -1,0 +1,14 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/light_blue",
+  "display": {
+    "name": "Wear a Light Blue Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color": {
+        "rgb":3847130
+      }
+    },
+    "decoration": "NONE"
+  }
+}

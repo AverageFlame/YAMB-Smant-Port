@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_weakness",
+  "display": {
+    "name": "Get the Weakness Effect",
+    "item": "minecraft:milk_bucket",
+    "decoration": "NONE"
+  }
+}

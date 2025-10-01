@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:nether/root",
+  "display": {
+    "name": "Enter Nether",
+    "item": "minecraft:netherrack",
+    "decoration": "NONE"
+  }
+}

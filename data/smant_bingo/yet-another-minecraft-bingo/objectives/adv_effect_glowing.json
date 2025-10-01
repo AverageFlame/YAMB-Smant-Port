@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_glowing",
+  "display": {
+    "name": "Get the Glowing Effect",
+    "item": "minecraft:milk_bucket",
+    "decoration": "NONE"
+  }
+}

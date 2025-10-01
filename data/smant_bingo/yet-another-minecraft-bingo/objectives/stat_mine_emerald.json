@@ -1,0 +1,22 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": "Mine Emerald Ore",
+    "item": "minecraft:emerald_ore",
+    "decoration": "NONE"
+  },
+  "objectives": [
+    {
+      "type": "stats",
+      "statType": "minecraft:mined",
+      "statName": "minecraft:deepslate_emerald_ore",
+      "value": 1
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:mined",
+      "statName": "minecraft:emerald_ore",
+      "value": 1
+    }
+  ]
+}
