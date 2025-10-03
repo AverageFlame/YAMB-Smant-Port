@@ -5,9 +5,7 @@
     "name": "Wear a Green Leather Helmet",
     "item": "minecraft:leather_helmet",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":6192150
-      }
+      "minecraft:dyed_color":6192150
     },
     "decoration": "NONE"
   }

@@ -5,9 +5,7 @@
     "name": "Wear a Pink Leather Helmet",
     "item": "minecraft:leather_helmet",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":15961002
-      }
+      "minecraft:dyed_color":15961002
     },
     "decoration": "NONE"
   }

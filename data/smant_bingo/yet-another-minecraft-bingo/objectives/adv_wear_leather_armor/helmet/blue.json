@@ -5,9 +5,7 @@
     "name": "Wear a Blue Leather Helmet",
     "item": "minecraft:leather_helmet",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":3949738
-      }
+      "minecraft:dyed_color":3949738
     },
     "decoration": "NONE"
   }

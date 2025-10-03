@@ -5,9 +5,7 @@
     "name": "Wear Lime Leather Boots",
     "item": "minecraft:leather_boots",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":8439583
-      }
+      "minecraft:dyed_color":8439583
     },
     "decoration": "NONE"
   }

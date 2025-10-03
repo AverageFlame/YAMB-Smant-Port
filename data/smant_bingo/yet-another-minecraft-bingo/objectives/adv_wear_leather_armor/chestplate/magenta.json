@@ -5,9 +5,7 @@
     "name": "Wear a Magenta Leather Chestplate",
     "item": "minecraft:leather_chestplate",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":13061821
-      }
+      "minecraft:dyed_color":13061821
     },
     "decoration": "NONE"
   }

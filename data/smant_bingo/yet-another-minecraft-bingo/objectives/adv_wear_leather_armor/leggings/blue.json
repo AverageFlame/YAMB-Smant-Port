@@ -5,9 +5,7 @@
     "name": "Wear Blue Leather Leggings",
     "item": "minecraft:leather_leggings",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":3949738
-      }
+      "minecraft:dyed_color":3949738
     },
     "decoration": "NONE"
   }

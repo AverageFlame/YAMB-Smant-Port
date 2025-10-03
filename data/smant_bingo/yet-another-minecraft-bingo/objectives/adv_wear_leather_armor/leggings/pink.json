@@ -5,9 +5,7 @@
     "name": "Wear Pink Leather Leggings",
     "item": "minecraft:leather_leggings",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":15961002
-      }
+      "minecraft:dyed_color":15961002
     },
     "decoration": "NONE"
   }

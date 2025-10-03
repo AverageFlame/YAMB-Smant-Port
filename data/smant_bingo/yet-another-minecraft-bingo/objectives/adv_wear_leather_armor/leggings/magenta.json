@@ -5,9 +5,7 @@
     "name": "Wear Magenta Leather Leggings",
     "item": "minecraft:leather_leggings",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":13061821
-      }
+      "minecraft:dyed_color":13061821
     },
     "decoration": "NONE"
   }

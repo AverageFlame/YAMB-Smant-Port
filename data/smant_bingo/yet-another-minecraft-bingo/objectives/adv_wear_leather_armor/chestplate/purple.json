@@ -5,9 +5,7 @@
     "name": "Wear a Purple Leather Chestplate",
     "item": "minecraft:leather_chestplate",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":8991416
-      }
+      "minecraft:dyed_color":8991416
     },
     "decoration": "NONE"
   }

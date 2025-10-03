@@ -5,9 +5,7 @@
     "name": "Wear White Leather Boots",
     "item": "minecraft:leather_boots",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":16383998
-      }
+      "minecraft:dyed_color":16383998
     },
     "decoration": "NONE"
   }

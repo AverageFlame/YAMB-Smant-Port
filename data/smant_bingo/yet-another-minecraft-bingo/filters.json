@@ -1,6 +1,6 @@
 {
     "filters": {
-      "SmallAnt Default": "+smallant",
-      "Smant Random": "+smant_random"
+      "SmallAnt_Default": "+smallant",
+      "Smant_Random": "+smant_random"
     }
 }

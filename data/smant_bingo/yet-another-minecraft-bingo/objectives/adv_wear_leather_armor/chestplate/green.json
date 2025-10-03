@@ -5,9 +5,7 @@
     "name": "Wear a Green Leather Chestplate",
     "item": "minecraft:leather_chestplate",
     "itemComponents": {
-      "minecraft:dyed_color": {
-        "rgb":6192150
-      }
+      "minecraft:dyed_color":6192150
     },
     "decoration": "NONE"
   }
