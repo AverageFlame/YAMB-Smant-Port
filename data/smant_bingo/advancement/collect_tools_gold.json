@@ -6,19 +6,19 @@
       "conditions": {
         "items": [
           {
-            "items": "minecraft:diamond_hoe"
+            "items": "minecraft:golden_hoe"
           },
           {
-            "items": "minecraft:diamond_pickaxe"
+            "items": "minecraft:golden_pickaxe"
           },
           {
-            "items": "minecraft:diamond_axe"
+            "items": "minecraft:golden_axe"
           },
           {
-            "items": "minecraft:diamond_sword"
+            "items": "minecraft:golden_sword"
           },
           {
-            "items": "diamond_shovel"
+            "items": "golden_shovel"
           }
         ]
       }
