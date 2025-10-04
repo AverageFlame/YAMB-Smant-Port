@@ -12,7 +12,7 @@
               "minecraft:zombie_horse"
             ],
             "slots": {
-              "horse.saddle": {
+              "saddle": {
                 "items": "minecraft:saddle"
               }
             }
