@@ -1,9 +1,0 @@
-{
-  "type": "advancement",
-  "advancement": "smant_bingo:kill_sheep/brown",
-  "display": {
-    "name": [{"text": "Kill a "},{"text": "Brown Sheep","color": "#835432"}],
-    "item": "minecraft:wooden_sword",
-    "decoration": "NONE"
-  }
-}
