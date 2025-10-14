@@ -1,0 +1,161 @@
+{
+  "type": "some_of",
+  "display": {
+    "name": "Kill %min% Unique Hostile Mobs",
+    "item": "minecraft:wooden_sword",
+    "decoration": "MULTI_ITEM"
+  },
+  "objectives": [
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:blaze"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:bogged"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:breeze"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:creaking"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:creeper"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:elder_guardian"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:endermite"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:evoker"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:ghast"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:guardian"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:hoglin"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:husk"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:magma_cube"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:phantom"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:piglin_brute"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:pillager"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:ravager"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": 	"minecraft:shulker"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:silverfish"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:skeleton"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:slime"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:stray"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:vex"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:vindicator"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:warden"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:witch"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": "minecraft:wither_skeleton"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": 	"minecraft:zoglin"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": 	"minecraft:zombie"
+    },
+    {
+      "type": "stats",
+      "statType": "minecraft:killed",
+      "statName": 	"minecraft:zombie_villager"
+    }
+  ],
+  "min": 10
+}

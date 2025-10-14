@@ -1,6 +1,5 @@
 scoreboard players set @a pumpkin 0
 scoreboard players set @a breed 0
-scoreboard players set @a hostile_mobs 0
 scoreboard players set @a undead_kills 0
 scoreboard players set @a arthropod_kills 0
 scoreboard players set @a foods 0

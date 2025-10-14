@@ -1,6 +1,5 @@
 scoreboard objectives add pumpkin dummy
 scoreboard objectives add breed dummy
-scoreboard objectives add hostile_mobs dummy
 scoreboard objectives add undead_kills dummy
 scoreboard objectives add arthropod_kills dummy
 scoreboard objectives add foods dummy

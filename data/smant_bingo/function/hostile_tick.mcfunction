@@ -1,1 +1,0 @@
-execute as @a[tag=hostile_killed] run function smant_bingo:hostile_count
