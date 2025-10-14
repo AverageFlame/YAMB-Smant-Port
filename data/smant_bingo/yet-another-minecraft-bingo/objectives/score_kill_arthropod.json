@@ -5,6 +5,6 @@
     "item": "minecraft:wooden_sword",
     "decoration": "MULTI_ITEM"
   },
-  "scoreboardName": "undead_kills",
+  "scoreboardName": "arthropod_kills",
   "min": 20
 }
