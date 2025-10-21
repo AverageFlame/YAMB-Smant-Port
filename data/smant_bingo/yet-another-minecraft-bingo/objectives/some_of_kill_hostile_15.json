@@ -9,153 +9,184 @@
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:blaze"
+      "statName": "minecraft:blaze",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:bogged"
+      "statName": "minecraft:bogged",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:breeze"
+      "statName": "minecraft:breeze",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:creaking"
+      "statName": "minecraft:creaking",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:creeper"
+      "statName": "minecraft:creeper",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:elder_guardian"
+      "statName": "minecraft:elder_guardian",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:endermite"
+      "statName": "minecraft:endermite",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:evoker"
+      "statName": "minecraft:evoker",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:ghast"
+      "statName": "minecraft:ghast",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:guardian"
+      "statName": "minecraft:guardian",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:hoglin"
+      "statName": "minecraft:hoglin",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:husk"
+      "statName": "minecraft:husk",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:magma_cube"
+      "statName": "minecraft:magma_cube",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:phantom"
+      "statName": "minecraft:phantom",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:piglin_brute"
+      "statName": "minecraft:piglin_brute",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:pillager"
+      "statName": "minecraft:pillager",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:ravager"
+      "statName": "minecraft:ravager",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": 	"minecraft:shulker"
+      "statName": "minecraft:shulker",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:silverfish"
+      "statName": "minecraft:silverfish",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:skeleton"
+      "statName": "minecraft:skeleton",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:slime"
+      "statName": "minecraft:slime",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:stray"
+      "statName": "minecraft:stray",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:vex"
+      "statName": "minecraft:vex",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:vindicator"
+      "statName": "minecraft:vindicator",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:warden"
+      "statName": "minecraft:warden",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:witch"
+      "statName": "minecraft:witch",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": "minecraft:wither_skeleton"
+      "statName": "minecraft:wither_skeleton",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": 	"minecraft:zoglin"
+      "statName": "minecraft:zoglin",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": 	"minecraft:zombie"
+      "statName": "minecraft:zombie",
+      "conflictsWith": []
     },
     {
       "type": "stats",
       "statType": "minecraft:killed",
-      "statName": 	"minecraft:zombie_villager"
+      "statName": "minecraft:zombie_villager",
+      "conflictsWith": []
     }
   ],
-  "min": 15
+  "min": 15,
+  "conflictsWith": []
 }
