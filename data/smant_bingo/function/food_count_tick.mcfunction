@@ -1,0 +1,1 @@
+execute as @a[tag=food_count] at @s run function smant_bingo:food_count

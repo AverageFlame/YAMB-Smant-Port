@@ -12,6 +12,6 @@
     ]
   ],
   "rewards": {
-        "function": "smant_bingo:food_count"
+        "function": "smant_bingo:food_count_trigger"
   }
 }

@@ -43,3 +43,5 @@ execute if entity @s[advancements={smant_bingo:track_foods={spider_eye=true}}] r
 execute if entity @s[advancements={smant_bingo:track_foods={suspicious_stew=true}}] run scoreboard players add @s foods 1
 execute if entity @s[advancements={smant_bingo:track_foods={sweet_berries=true}}] run scoreboard players add @s foods 1
 execute if entity @s[advancements={smant_bingo:track_foods={tropical_fish=true}}] run scoreboard players add @s foods 1
+
+tag @s remove food_count
