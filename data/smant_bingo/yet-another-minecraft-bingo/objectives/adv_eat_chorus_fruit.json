@@ -1,11 +1,9 @@
 {
-  "type": "stats",
+  "type": "advancement",
+  "advancement": "smant_bingo:consume_chorus_fruit",
   "display": {
     "name": "Eat a Chorus Fruit",
     "item": "minecraft:chorus_fruit",
     "decoration": "ADVANCEMENT"
-  },
-  "statType": "minecraft:used",
-  "statName": "minecraft:chorus_fruit",
-  "min": 1
+  }
 }

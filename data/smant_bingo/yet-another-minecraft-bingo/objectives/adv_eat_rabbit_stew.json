@@ -1,11 +1,9 @@
 {
-  "type": "stats",
+  "type": "advancement",
+  "advancement": "smant_bingo:consume_rabbit_stew",
   "display": {
     "name": "Eat Rabbit Stew",
     "item": "minecraft:rabbit_stew",
     "decoration": "ADVANCEMENT"
-  },
-  "statType": "minecraft:used",
-  "statName": "minecraft:rabbit_stew",
-  "min": 1
+  }
 }

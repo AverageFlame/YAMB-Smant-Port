@@ -1,11 +1,9 @@
 {
-  "type": "stats",
+  "type": "advancement",
+  "advancement": "smant_bingo:consume_suspicious_stew",
   "display": {
     "name": "Eat Suspicious Stew",
     "item": "minecraft:suspicious_stew",
     "decoration": "ADVANCEMENT"
-  },
-  "statType": "minecraft:used",
-  "statName": "minecraft:suspicious_stew",
-  "min": 1
+  }
 }
