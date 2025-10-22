@@ -1,11 +1,31 @@
 {
-  "type": "stats",
+  "type": "one_of",
   "display": {
     "name": "Die to a Llama",
     "item": "minecraft:structure_void",
     "decoration": "ADVANCEMENT"
   },
-  "statType": "minecraft:killed_by",
-  "statName": "minecraft:llama",
-  "min": 1
+  "objectives": [
+	{
+	  "type": "stats",
+	  "statType": "minecraft:killed_by",
+	  "statName": "minecraft:llama",
+	  "min": 1,
+	  "conflictsWith": []
+	},
+	{
+	  "type": "stats",
+	  "statType": "minecraft:killed_by",
+	  "statName": "minecraft:trader_llama",
+	  "min": 1,
+	  "conflictsWith": []
+	},
+	{
+	  "type": "stats",
+	  "statType": "minecraft:killed_by",
+	  "statName": "minecraft:llama_spit",
+	  "min": 1,
+	  "conflictsWith": []
+	}
+  ]
 }
