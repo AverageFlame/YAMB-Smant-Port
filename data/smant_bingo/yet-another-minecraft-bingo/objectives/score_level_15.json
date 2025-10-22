@@ -6,5 +6,6 @@
     "decoration": "ADVANCEMENT"
   },
   "scoreboardName": "currentxp",
-  "min": 15
+  "min": 15,
+  "permanent": true
 }

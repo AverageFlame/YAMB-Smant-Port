@@ -6,5 +6,6 @@
     "decoration": "MULTI_ITEM"
   },
   "scoreboardName": "effects",
-  "min": 6
+  "min": 6,
+  "permanent": true
 }
