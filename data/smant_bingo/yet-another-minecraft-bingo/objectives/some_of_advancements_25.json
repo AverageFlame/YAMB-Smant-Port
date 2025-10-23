@@ -1,0 +1,588 @@
+{
+  "type": "some_of",
+  "display": {
+    "name": "Get 25 Advancements",
+    "lore": [],
+    "item": "minecraft:writable_book",
+    "decoration": "MULTI_ITEM"
+  },
+  "objectives": [
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/root",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/mine_stone",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/upgrade_tools",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/smelt_iron",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/obtain_armor",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/lava_bucket",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/iron_tools",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/deflect_arrow",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/form_obsidian",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/mine_diamond",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/enter_the_nether",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/shiny_gear",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/enchant_item",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/cure_zombie_villager",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/follow_ender_eye",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:story/enter_the_end",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/root",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/return_to_sender",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/find_bastion",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/obtain_ancient_debris",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/fast_travel",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/find_fortress",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/obtain_crying_obsidian",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/ride_strider",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/uneasy_alliance",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/loot_bastion",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/netherite_armor",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/get_wither_skull",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/obtain_blaze_rod",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/charge_respawn_anchor",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/ride_strider_in_overworld_lava",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/explore_nether",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/summon_wither",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/brew_potion",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/create_beacon",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:nether/create_full_beacon",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/root",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/kill_dragon",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/dragon_egg",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/enter_end_gateway",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/respawn_dragon",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/dragon_breath",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/find_end_city",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/elytra",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:end/levitate",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/root",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/heart_transplanter",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/voluntary_exile",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/use_lodestone",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/spyglass_at_parrot",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/read_power_of_chiseled_bookshelf",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/trade",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/trim_with_any_armor_pattern",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/honey_block_slide",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/ol_betsy",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/lightning_rod_with_villager_no_fire",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/fall_from_world_height",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/salvage_sherd",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/avoid_vibration",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/sleep_in_bed",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/hero_of_the_village",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/spyglass_at_ghast",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/throw_trident",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/kill_mob_near_sculk_catalyst",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/shoot_arrow",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/totem_of_undying",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/summon_iron_golem",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/trade_at_world_height",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/trim_with_all_exclusive_armor_patterns",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/two_birds_one_arrow",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/whos_the_pillager_now",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/arbalistic",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/craft_decorated_pot_using_only_sherds",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/play_jukebox_in_meadows",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/walk_on_powder_snow_with_leather_boots",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/spyglass_at_dragon",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/very_very_frightening",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/sniper_duel",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/bullseye",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/brush_armadillo",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/minecraft_trials_edition",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/crafters_crafting_crafters",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/lighten_up",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/who_needs_rockets",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/under_lock_and_key",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/revaulting",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/blowback",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:adventure/overoverkill",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/root",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/place_dried_ghast_in_water",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/safely_harvest_honey",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/allay_deliver_item_to_player",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/ride_a_boat_with_a_goat",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/tame_an_animal",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/make_a_sign_glow",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/fishy_business",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/silk_touch_nest",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/tadpole_in_a_bucket",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/obtain_sniffer_egg",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/plant_seed",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/wax_on",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/allay_deliver_cake_to_note_block",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/complete_catalogue",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/tactical_fishing",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/leash_all_frog_variants",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/feed_snifflet",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/obtain_netherite_hoe",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/wax_off",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/axolotl_in_a_bucket",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/froglights",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/plant_any_sniffer_seed",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/kill_axolotl_target",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/repair_wolf_armor",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/whole_pack",
+		"conflictsWith": []
+	},
+	{
+		"type": "advancement",
+		"advancement": "minecraft:husbandry/remove_wolf_armor",
+		"conflictsWith": []
+	}
+  ],
+  "min": 25,
+  "conflictsWith": []
+}

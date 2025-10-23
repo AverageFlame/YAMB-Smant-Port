@@ -5,5 +5,6 @@
     "name": "Enter The End",
     "item": "minecraft:end_stone",
     "decoration": "NONE"
-  }
+  },
+  "conflictsWith": []
 }

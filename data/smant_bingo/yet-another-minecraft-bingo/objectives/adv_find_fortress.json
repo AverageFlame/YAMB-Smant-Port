@@ -5,5 +5,6 @@
     "name": "Find a Nether Fortress",
     "item": "minecraft:nether_bricks",
     "decoration": "NONE"
-  }
+  },
+  "conflictsWith": []
 }

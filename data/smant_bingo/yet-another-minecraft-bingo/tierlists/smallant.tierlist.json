@@ -39,7 +39,7 @@
       "smant_bingo:adv_use_smithing",
       "smant_bingo:adv_sleep_alone",
       "smant_bingo:score_level_30",
-      "smant_bingo:score_advancements_35",
+      "smant_bingo:some_of_advancements_35",
       "smant_bingo:score_most_levels"
   ],
   "B": [
@@ -163,7 +163,7 @@
       "smant_bingo:adv_explore_nether",
       "smant_bingo:adv_bullseye",
       "smant_bingo:adv_charge_anchor",
-      "smant_bingo:score_advancements_25",
+      "smant_bingo:some_of_advancements_25",
       "smant_bingo:score_most_hoppers"
   ],
   "C": [
@@ -326,7 +326,7 @@
       "smant_bingo:adv_trade",
       "smant_bingo:adv_distract",
       "smant_bingo:adv_sniper_duel",
-      "smant_bingo:score_advancements_15",
+      "smant_bingo:some_of_advancements_15",
       "smant_bingo:score_most_kelp"
   ],
   "D": [],

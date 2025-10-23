@@ -5,5 +5,6 @@
     "name": "Use an Enchanting Table",
     "item": "minecraft:enchanting_table",
     "decoration": "NONE"
-  }
+  },
+  "conflictsWith": []
 }

@@ -5,5 +5,6 @@
     "name": "Find an End City",
     "item": "minecraft:purpur_block",
     "decoration": "NONE"
-  }
+  },
+  "conflictsWith": []
 }

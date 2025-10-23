@@ -5,5 +5,6 @@
     "name": "Get Sniper Duel Advancement",
     "item": "minecraft:arrow",
     "decoration": "NONE"
-  }
+  },
+  "conflictsWith": []
 }
