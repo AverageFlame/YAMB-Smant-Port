@@ -21,7 +21,7 @@ execute if predicate {condition:"entity_properties",entity:"this",predicate:{eff
 execute if predicate {condition:"entity_properties",entity:"this",predicate:{effects:{"luck":{}}}} run scoreboard players add @s effects 1
 execute if predicate {condition:"entity_properties",entity:"this",predicate:{effects:{"mining_fatigue":{}}}} run scoreboard players add @s effects 1
 execute if predicate {condition:"entity_properties",entity:"this",predicate:{effects:{"nausea":{}}}} run scoreboard players add @s effects 1
-execute if predicate {condition:"entity_properties",entity:"this",predicate:{effects:{"night_vision":{}}}} run scoreboard players add @s effects 1
+execute if predicate {condition:"entity_properties",entity:"this",predicate:{effects:{"night_vision":{}}}} run scoreboard players add @s[tag=!nightVision] effects 1
 execute if predicate {condition:"entity_properties",entity:"this",predicate:{effects:{"oozing":{}}}} run scoreboard players add @s effects 1
 execute if predicate {condition:"entity_properties",entity:"this",predicate:{effects:{"poison":{}}}} run scoreboard players add @s effects 1
 execute if predicate {condition:"entity_properties",entity:"this",predicate:{effects:{"raid_omen":{}}}} run scoreboard players add @s effects 1
