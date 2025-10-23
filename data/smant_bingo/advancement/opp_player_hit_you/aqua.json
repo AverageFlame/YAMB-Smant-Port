@@ -1,0 +1,131 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "blue": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "team": "bingo_aqua"
+        },
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:player",
+              "team": "bingo_blue"
+            }
+          }
+        }
+      }
+    },
+    "gray": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "team": "bingo_aqua"
+        },
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:player",
+              "team": "bingo_gray"
+            }
+          }
+        }
+      }
+    },
+    "green": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "team": "bingo_aqua"
+        },
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:player",
+              "team": "bingo_green"
+            }
+          }
+        }
+      }
+    },
+    "orange": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "team": "bingo_aqua"
+        },
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:player",
+              "team": "bingo_orange"
+            }
+          }
+        }
+      }
+    },
+    "pink": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "team": "bingo_aqua"
+        },
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:player",
+              "team": "bingo_pink"
+            }
+          }
+        }
+      }
+    },
+    "red": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "team": "bingo_aqua"
+        },
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:player",
+              "team": "bingo_red"
+            }
+          }
+        }
+      }
+    },
+    "yellow": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "team": "bingo_aqua"
+        },
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:player",
+              "team": "bingo_yellow"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "blue",
+      "gray",
+      "green",
+      "orange",
+      "pink",
+      "red",
+      "yellow"
+    ]
+  ],
+  "rewards": {
+    "function": "smant_bingo:grant_opp_hit_you"
+  }
+}

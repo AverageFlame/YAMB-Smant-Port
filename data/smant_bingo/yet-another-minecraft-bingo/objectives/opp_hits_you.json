@@ -1,8 +1,8 @@
 {
   "type": "advancement",
-  "advancement": "smant_bingo:opp_player_hit_you",
+  "advancement": "smant_bingo:opp_hit_you",
   "display": {
-    "name": "Player Hits You",
+    "name": "Opponent Hits You",
     "item": "minecraft:stick",
     "decoration": "FORBIDDEN"
   }

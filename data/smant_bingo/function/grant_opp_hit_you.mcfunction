@@ -1,0 +1,1 @@
+advancement grant @s only smant_bingo:opp_hit_you
