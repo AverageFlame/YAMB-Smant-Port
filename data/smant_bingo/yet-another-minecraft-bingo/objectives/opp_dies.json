@@ -9,6 +9,8 @@
     "type": "stats",
     "statType": "minecraft:custom",
     "statName": "minecraft:deaths",
-    "min": 1
-  }
+    "min": 1,
+  	"conflictsWith": []
+  },
+  "conflictsWith": []
 }

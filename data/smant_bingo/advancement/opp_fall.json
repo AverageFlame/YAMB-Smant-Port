@@ -9,7 +9,7 @@
             "tags": [
               {
                 "id": "minecraft:is_fall",
-                "expected": false
+                "expected": true
               }
             ]
           }
