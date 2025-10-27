@@ -4,6 +4,10 @@
   "display": {
     "name": "Get the Bad Omen Effect",
     "item": "minecraft:milk_bucket",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["effect_bad_omen"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:effect/bad_omen"
   }
 }

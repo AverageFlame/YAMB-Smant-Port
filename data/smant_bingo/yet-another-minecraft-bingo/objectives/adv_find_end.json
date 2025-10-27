@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:end/root",
   "display": {
-    "name": "Enter The End",
-    "item": "minecraft:end_stone",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

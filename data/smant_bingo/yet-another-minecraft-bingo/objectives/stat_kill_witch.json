@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill A Witch",
     "item": "minecraft:wooden_sword",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_witch"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/witch"
   },
   "statType": "minecraft:killed",
   "statName": "minecraft:witch",

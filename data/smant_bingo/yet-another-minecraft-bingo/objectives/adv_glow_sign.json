@@ -4,6 +4,10 @@
   "display": {
     "name": "Use Glow Ink on a Crimson Sign",
     "item": "minecraft:glow_ink_sac",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["glow_sign"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:glow_sign"
   }
 }

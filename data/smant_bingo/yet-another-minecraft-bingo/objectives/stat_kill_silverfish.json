@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill A Silverfish",
     "item": "minecraft:wooden_sword",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_silverfish"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/silverfish"
   },
   "statType": "minecraft:killed",
   "statName": "minecraft:silverfish",

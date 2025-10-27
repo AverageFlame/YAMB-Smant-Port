@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:story/follow_ender_eye",
   "display": {
-    "name": "Find a Stronghold",
-    "item": "minecraft:ender_eye",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

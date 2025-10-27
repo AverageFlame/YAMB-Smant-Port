@@ -3,7 +3,11 @@
   "display": {
     "name": "Get %min% Effects at Once",
     "item": "minecraft:potion",
-    "decoration": "MULTI_ITEM"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["effect_3"] }
+	},
+    "decoration": "MULTI_ITEM",
+	"image": "smant_bingo:effect/3"
   },
   "scoreboardName": "effects",
   "min": 3,

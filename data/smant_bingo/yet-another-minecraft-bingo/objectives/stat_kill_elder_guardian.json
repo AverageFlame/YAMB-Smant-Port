@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill An Elder Guardian",
     "item": "minecraft:wooden_sword",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_elder_guardian"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/elder_guardian"
   },
   "statType": "minecraft:killed",
   "statName": "minecraft:elder_guardian",

@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill A Snow Golem",
     "item": "minecraft:wooden_sword",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_snow_golem"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/snow_golem"
   },
   "statType": "minecraft:killed",
   "statName": "minecraft:snow_golem",

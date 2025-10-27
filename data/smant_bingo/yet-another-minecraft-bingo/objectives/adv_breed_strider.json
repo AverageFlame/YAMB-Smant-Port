@@ -4,6 +4,10 @@
   "display": {
     "name": "Breed a Strider",
     "item": "minecraft:strider_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["breed_strider"]}
+	},
+	"image": "smant_bingo:breed/strider",
     "decoration": "NONE"
   }
 }

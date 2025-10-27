@@ -4,6 +4,10 @@
   "display": {
     "name": "Collect 64 of Anything",
     "item": "minecraft:stone",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["64_anything"] }
+	},
+    "decoration": "MULTI_ITEM",
+	"image": "smant_bingo:64_anything"
   }
 }

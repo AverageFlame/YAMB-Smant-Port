@@ -4,6 +4,10 @@
   "display": {
     "name": "Breed a Rabbit",
     "item": "minecraft:rabbit_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["breed_rabbit"]}
+	},
+	"image": "smant_bingo:breed/rabbit",
     "decoration": "NONE"
   }
 }

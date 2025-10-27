@@ -4,6 +4,10 @@
   "display": {
     "name": "Get the Weakness Effect",
     "item": "minecraft:milk_bucket",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["effect_weakness"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:effect/weakness"
   }
 }

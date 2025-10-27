@@ -4,6 +4,10 @@
   "display": {
     "name": "Breed a Sheep",
     "item": "minecraft:sheep_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["breed_sheep"]}
+	},
+	"image": "smant_bingo:breed/sheep",
     "decoration": "NONE"
   }
 }

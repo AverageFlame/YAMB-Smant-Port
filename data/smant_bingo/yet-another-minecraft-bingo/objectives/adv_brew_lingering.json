@@ -4,6 +4,10 @@
   "display": {
     "name": "Brew a potion of Lingering",
     "item": "minecraft:potion",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["lingering"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:lingering"
   }
 }

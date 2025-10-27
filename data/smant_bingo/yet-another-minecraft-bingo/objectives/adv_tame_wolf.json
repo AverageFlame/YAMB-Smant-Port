@@ -4,6 +4,10 @@
   "display": {
     "name": "Tame A Wolf",
     "item": "minecraft:wolf_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["tame_wolf"]}
+	},
+	"image": "smant_bingo:tame/wolf",
     "decoration": "NONE"
   }
 }

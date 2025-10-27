@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:end/find_end_city",
   "display": {
-    "name": "Find an End City",
-    "item": "minecraft:purpur_block",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

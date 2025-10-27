@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill An Endermite",
     "item": "minecraft:wooden_sword",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_endermite"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/endermite"
   },
   "statType": "minecraft:killed",
   "statName": "minecraft:endermite",

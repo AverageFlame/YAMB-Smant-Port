@@ -4,6 +4,10 @@
   "display": {
     "name": "Die to a Berry Bush",
     "item": "minecraft:structure_void",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_bush"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/bush"
   }
 }

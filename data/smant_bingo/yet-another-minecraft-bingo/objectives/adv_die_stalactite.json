@@ -4,6 +4,10 @@
   "display": {
     "name": "Die to a Falling Stalactite",
     "item": "minecraft:structure_void",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_dripstone"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/dripstone"
   }
 }

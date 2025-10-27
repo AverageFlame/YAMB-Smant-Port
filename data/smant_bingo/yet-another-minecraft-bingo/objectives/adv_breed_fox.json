@@ -4,6 +4,10 @@
   "display": {
     "name": "Breed a Fox",
     "item": "minecraft:fox_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["breed_fox"]}
+	},
+	"image": "smant_bingo:breed/fox",
     "decoration": "NONE"
   }
 }

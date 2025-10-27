@@ -4,6 +4,10 @@
   "display": {
     "name": "Breed a Pig",
     "item": "minecraft:pig_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["breed_pig"]}
+	},
+	"image": "smant_bingo:breed/pig",
     "decoration": "NONE"
   }
 }

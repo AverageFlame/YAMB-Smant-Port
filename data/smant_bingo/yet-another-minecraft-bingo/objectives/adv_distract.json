@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:nether/distract_piglin",
   "display": {
-    "name": "Distract a Piglin",
-    "item": "minecraft:gold_ingot",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

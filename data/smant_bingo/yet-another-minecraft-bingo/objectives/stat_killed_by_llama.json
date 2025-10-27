@@ -3,7 +3,11 @@
   "display": {
     "name": "Die to a Llama",
     "item": "minecraft:structure_void",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_llama"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/llama"
   },
   "objectives": [
 	{

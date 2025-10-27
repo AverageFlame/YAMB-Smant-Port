@@ -3,7 +3,11 @@
   "display": {
     "name": "Breed %min% Unique Animals",
     "item": "minecraft:wheat",
-    "decoration": "MULTI_ITEM"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["breed_8_unique"] }
+	},
+    "decoration": "MULTI_ITEM",
+	"image": "smant_bingo:breed/8_unique"
   },
   "scoreboardName": "breed",
   "min": 8

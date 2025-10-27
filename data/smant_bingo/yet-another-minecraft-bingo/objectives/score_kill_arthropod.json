@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill %min% Arthropods",
     "item": "minecraft:wooden_sword",
-    "decoration": "MULTI_ITEM"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_arthropod"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/arthropod"
   },
   "scoreboardName": "arthropod_kills",
   "min": 20

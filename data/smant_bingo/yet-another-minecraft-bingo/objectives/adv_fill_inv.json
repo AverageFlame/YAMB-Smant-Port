@@ -4,6 +4,10 @@
   "display": {
     "name": "Fill Your Inventory with Unique Items",
     "item": "minecraft:stone",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["fill_inv"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:fill_inv"
   }
 }

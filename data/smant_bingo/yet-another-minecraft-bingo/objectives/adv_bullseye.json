@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:adventure/bullseye",
   "display": {
-    "name": "Get Bullseye Advancement",
-    "item": "minecraft:target",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

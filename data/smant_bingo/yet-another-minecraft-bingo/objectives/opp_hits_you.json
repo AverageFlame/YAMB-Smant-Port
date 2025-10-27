@@ -4,6 +4,10 @@
   "display": {
     "name": "Opponent Hits You",
     "item": "minecraft:stick",
-    "decoration": "FORBIDDEN"
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["opp_hits_you"]}
+	},
+    "decoration": "FORBIDDEN",
+	"image": "smant_bingo:opp/hits_you"
   }
 }

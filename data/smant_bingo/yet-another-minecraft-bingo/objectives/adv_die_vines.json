@@ -4,6 +4,10 @@
   "display": {
     "name": "Die to Falling From Vines",
     "item": "minecraft:structure_void",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_vines"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/vines"
   }
 }

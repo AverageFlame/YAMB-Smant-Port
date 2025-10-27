@@ -3,7 +3,11 @@
   "display": {
     "name": "Empty Your Hunger Bar",
     "item": "minecraft:rotten_flesh",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["starve"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:starve"
   },
   "scoreboardName": "hunger",
   "min": 0,

@@ -3,7 +3,11 @@
   "display": {
     "name": "Eat %min% Unique Foods",
     "item": "minecraft:apple",
-    "decoration": "MULTI_ITEM"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["5_foods"] }
+	},
+    "decoration": "MULTI_ITEM",
+	"image": "smant_bingo:5_foods"
   },
   "scoreboardName": "foods",
   "min": 5

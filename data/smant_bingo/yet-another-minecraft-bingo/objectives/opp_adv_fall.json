@@ -3,7 +3,11 @@
   "display": {
     "name": "Opponent Takes Fall Damage",
     "item": "minecraft:pointed_dripstone",
-    "decoration": "FORBIDDEN"
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["opp_falls"]}
+	},
+    "decoration": "FORBIDDEN",
+	"image": "smant_bingo:opp/falls"
   },
   "objective": "smant_bingo:opp_fall"
 }

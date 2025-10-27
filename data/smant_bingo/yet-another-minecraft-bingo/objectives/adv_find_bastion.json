@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:nether/find_bastion",
   "display": {
-    "name": "Find a Bastion",
-    "item": "minecraft:nether_bricks",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

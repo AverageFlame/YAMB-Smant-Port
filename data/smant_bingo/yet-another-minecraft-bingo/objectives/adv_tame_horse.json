@@ -4,6 +4,10 @@
   "display": {
     "name": "Tame A Horse",
     "item": "minecraft:horse_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["tame_horse"]}
+	},
+	"image": "smant_bingo:tame/horse",
     "decoration": "NONE"
   }
 }

@@ -4,6 +4,10 @@
   "display": {
     "name": "Tame A Cat",
     "item": "minecraft:cat_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["tame_cat"]}
+	},
+	"image": "smant_bingo:tame/cat",
     "decoration": "NONE"
   }
 }

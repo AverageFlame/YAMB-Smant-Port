@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:nether/ride_strider",
   "display": {
-    "name": "Boost a Strider While Riding it",
-    "item": "minecraft:warped_fungus_on_a_stick",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

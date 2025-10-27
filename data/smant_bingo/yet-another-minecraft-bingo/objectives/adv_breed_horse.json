@@ -4,6 +4,10 @@
   "display": {
     "name": "Breed a Horse",
     "item": "minecraft:horse_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["breed_horse"]}
+	},
+	"image": "smant_bingo:breed/horse",
     "decoration": "NONE"
   }
 }

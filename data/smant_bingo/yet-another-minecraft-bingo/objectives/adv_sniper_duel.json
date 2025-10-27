@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:adventure/sniper_duel",
   "display": {
-    "name": "Get Sniper Duel Advancement",
-    "item": "minecraft:arrow",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

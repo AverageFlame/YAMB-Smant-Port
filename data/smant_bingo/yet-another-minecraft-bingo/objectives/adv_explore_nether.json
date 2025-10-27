@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:nether/explore_nether",
   "display": {
-    "name": "Visit All Nether Biomes",
-    "item": "minecraft:netherite_boots",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

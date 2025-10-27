@@ -3,7 +3,11 @@
   "display": {
     "name": "Take 200 Damage",
     "item": "minecraft:diamond_chestplate",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["take_damage"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:take_damage"
   },
   "statType": "minecraft:custom",
   "statName": "minecraft:damage_taken",

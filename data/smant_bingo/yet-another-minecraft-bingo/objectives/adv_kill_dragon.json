@@ -2,9 +2,7 @@
   "type": "advancement",
   "advancement": "minecraft:end/kill_dragon",
   "display": {
-    "name": "Kill The Ender Dragon",
-    "item": "minecraft:dragon_head",
-    "decoration": "NONE"
+    "decoration": "ADVANCEMENT"
   },
   "conflictsWith": []
 }

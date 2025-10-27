@@ -4,7 +4,11 @@
     "name": "Get 35 Advancements",
     "lore": [],
     "item": "minecraft:writable_book",
-    "decoration": "MULTI_ITEM"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["35_advancements"] }
+	},
+    "decoration": "MULTI_ITEM",
+	"image": "smant_bingo:35_advancements"
   },
   "objectives": [
 	{

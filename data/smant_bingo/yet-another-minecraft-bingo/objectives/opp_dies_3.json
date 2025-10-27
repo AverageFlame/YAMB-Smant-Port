@@ -3,7 +3,11 @@
   "display": {
     "name": "Opponent Dies 3 Times",
     "item": "minecraft:structure_void",
-    "decoration": "FORBIDDEN"
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["opp_dies_3"]}
+	},
+    "decoration": "FORBIDDEN",
+	"image": "smant_bingo:opp/dies_3"
   },
   "objective": {
     "type": "stats",

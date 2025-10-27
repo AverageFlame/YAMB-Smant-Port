@@ -4,6 +4,10 @@
   "display": {
     "name": [{"text": "Kill an "},{"text": "Orange Sheep","color": "#F9801D"}],
     "item": "minecraft:wooden_sword",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_sheep_orange"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/sheep/orange"
   }
 }

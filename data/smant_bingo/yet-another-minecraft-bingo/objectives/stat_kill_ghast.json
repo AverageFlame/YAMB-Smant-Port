@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill A Ghast",
     "item": "minecraft:wooden_sword",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_ghast"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/ghast"
   },
   "statType": "minecraft:killed",
   "statName": "minecraft:ghast",

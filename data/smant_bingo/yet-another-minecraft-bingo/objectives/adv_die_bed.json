@@ -4,6 +4,10 @@
   "display": {
     "name": "Die to [Intentional Game Design]",
     "item": "minecraft:structure_void",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_bed"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/bed"
   }
 }

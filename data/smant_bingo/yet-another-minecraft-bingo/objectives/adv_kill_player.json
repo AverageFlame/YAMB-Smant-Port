@@ -4,6 +4,10 @@
   "display": {
     "name": "Kill an Enemy Player",
     "item": "minecraft:wooden_sword",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_player"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/player"
   }
 }

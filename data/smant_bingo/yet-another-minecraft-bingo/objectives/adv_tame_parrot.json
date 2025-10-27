@@ -4,6 +4,10 @@
   "display": {
     "name": "Tame A Parrot",
     "item": "minecraft:parrot_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["tame_parrot"]}
+	},
+	"image": "smant_bingo:tame/parrot",
     "decoration": "NONE"
   }
 }

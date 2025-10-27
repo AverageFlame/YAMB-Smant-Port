@@ -4,6 +4,10 @@
   "display": {
     "name": "Reach the Height Limit",
     "item": "minecraft:elytra",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["height_limit"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:height_limit"
   }
 }

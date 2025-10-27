@@ -3,7 +3,11 @@
   "display": {
     "name": "Opponent Touches Water",
     "item": "minecraft:water_bucket",
-    "decoration": "FORBIDDEN"
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["opp_water"]}
+	},
+    "decoration": "FORBIDDEN",
+	"image": "smant_bingo:opp/water"
   },
   "objective": "smant_bingo:opp_water"
 }

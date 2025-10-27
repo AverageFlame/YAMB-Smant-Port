@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill A Zombie Villager",
     "item": "minecraft:wooden_sword",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_zombie_villager"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/zombie_villager"
   },
   "statType": "minecraft:killed",
   "statName": "minecraft:zombie_villager",

@@ -3,7 +3,11 @@
   "display": {
     "name": "Opponent Takes 100 Total Damage",
     "item": "minecraft:iron_boots",
-    "decoration": "FORBIDDEN"
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["opp_takes_damage"]}
+	},
+    "decoration": "FORBIDDEN",
+	"image": "smant_bingo:opp/takes_damage"
   },
   "objective": {
     "type": "stats",

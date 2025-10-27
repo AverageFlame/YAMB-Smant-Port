@@ -3,7 +3,11 @@
   "display": {
     "name": "Have the Most Levels",
     "item": "minecraft:experience_bottle",
-    "decoration": "MULTI_ITEM"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["most_level"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:most_level"
   },
   "scoreboardName": "mostLevels",
   "min": 1

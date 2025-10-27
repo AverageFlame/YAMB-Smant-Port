@@ -3,7 +3,11 @@
   "display": {
     "name": "Kill A Stray",
     "item": "minecraft:wooden_sword",
-    "decoration": "ADVANCEMENT"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_stray"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/stray"
   },
   "statType": "minecraft:killed",
   "statName": "minecraft:stray",

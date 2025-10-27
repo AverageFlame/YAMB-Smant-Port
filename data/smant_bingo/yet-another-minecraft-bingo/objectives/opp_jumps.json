@@ -3,12 +3,18 @@
   "display": {
     "name": "Opponent Jumps",
     "item": "minecraft:leather_boots",
-    "decoration": "FORBIDDEN"
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["opp_jumps"]}
+	},
+    "decoration": "FORBIDDEN",
+	"image": "smant_bingo:opp/jumps"
   },
   "objective": {
     "type": "stats",
     "statType": "minecraft:custom",
     "statName": "minecraft:jump",
-    "min": 1
-  }
+    "min": 1,
+  	"conflictsWith": []
+  },
+  "conflictsWith": []
 }

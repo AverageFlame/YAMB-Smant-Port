@@ -2,8 +2,12 @@
   "type": "advancement",
   "advancement": "smant_bingo:die_anvil",
   "display": {
-    "name": "Die to a Anvil",
+    "name": "Die to an Anvil",
     "item": "minecraft:structure_void",
-    "decoration": "NONE"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_anvil"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/anvil"
   }
 }

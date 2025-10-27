@@ -3,7 +3,11 @@
   "display": {
     "name": "Have the Most Hoppers",
     "item": "minecraft:hopper",
-    "decoration": "MULTI_ITEM"
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["most_hopper"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:most_hopper"
   },
   "scoreboardName": "mostHoppers",
   "min": 1
