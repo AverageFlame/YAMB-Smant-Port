@@ -1,6 +1,14 @@
 {
-    "filters": {
-      "SmallAnt_Default": "+smallant",
-      "Smant_Random": "+smant_random"
+  "filters": [
+    {
+      "id": "smallant",
+      "name": "SmallAnt Default",
+      "value": "+smallant"
+    },
+    {
+      "id": "smallant_random",
+      "name": "SmallAnt Random",
+      "value": "+smant_random"
     }
+  ]
 }
